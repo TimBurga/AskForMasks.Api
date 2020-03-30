@@ -32,6 +32,14 @@
             return await _dataProvider.GetRequests(count);
         }
 
+        [HttpGet]
+        [Route("/api/requests/byzip/{zipCode}/distance/{radius}")]
+        public async Task<ZipSearchResult[]> RequestsByZipCode(string zipCode, int radius)
+        {
+            var point = await _geocodingProvider.GeocodeZip(zipCode);
+            return await _dataProvider.GetRequestsByPoint(point, zipCode, radius);
+        }
+
         [HttpPost]
         [Route("/api/request")]
         public async Task SaveRequest([FromBody]MaskRequest request)

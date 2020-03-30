@@ -2,14 +2,18 @@
 {
     using System;
     using System.Collections.Generic;
+    using System.Linq;
     using System.Threading.Tasks;
+    using Microsoft.AspNetCore.Server.IIS;
     using Microsoft.Azure.Cosmos;
+    using Microsoft.Azure.Cosmos.Spatial;
     using Microsoft.Extensions.Configuration;
     using Models;
 
     public interface IDataProvider
     {
         Task<MaskRequest[]> GetRequests(int count);
+        Task<ZipSearchResult[]> GetRequestsByPoint(Point point, string originZip, int radiusInMiles);
         Task<Brag[]> GetBrags(int count);
 
         Task SaveRequest(MaskRequest request);
@@ -59,6 +63,32 @@
             }
 
             return providers.ToArray();
+        }
+
+        public async Task<ZipSearchResult[]> GetRequestsByPoint(Point point, string originZip, int radiusInMiles)
+        {
+            var requestContainer = _cosmosClient.GetContainer(_databaseId, _requestContainerId);
+            var originPoint = "{ 'type': 'Point', 'coordinates':[" + point.Position.Longitude + ", " + point.Position.Latitude + "]}";
+            var query = $"SELECT * FROM MaskRequests m WHERE ST_DISTANCE(m.organization.geolocation, {originPoint}) < {radiusInMiles * 1609.34}";
+
+            var queryDefinition = new QueryDefinition(query);
+            var options = new QueryRequestOptions { MaxItemCount = _maxRecordsToReturn };
+            var queryResultSetIterator = requestContainer.GetItemQueryIterator<MaskRequest>(queryDefinition, requestOptions: options);
+
+            var searchResults = new List<ZipSearchResult>();
+
+            while (queryResultSetIterator.HasMoreResults)
+            {
+                var currentResultSet = await queryResultSetIterator.ReadNextAsync();
+                searchResults.AddRange(currentResultSet.Select(result => new ZipSearchResult
+                {
+                    Request = result, 
+                    OriginZip = originZip, 
+                    DistanceInMiles = 0
+                }));
+            }
+
+            return searchResults.ToArray();
         }
 
         public async Task<Brag[]> GetBrags(int count = 100)
