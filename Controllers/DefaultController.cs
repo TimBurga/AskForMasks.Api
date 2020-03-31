@@ -37,7 +37,7 @@
         public async Task<ZipSearchResult[]> RequestsByZipCode(string zipCode, int radius)
         {
             var point = await _geocodingProvider.GeocodeZip(zipCode);
-            return await _dataProvider.GetRequestsByPoint(point, zipCode, radius);
+            return _dataProvider.GetRequestsByPoint(point, zipCode, radius);
         }
 
         [HttpPost]
