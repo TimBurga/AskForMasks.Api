@@ -216,7 +216,7 @@ export default {
         data.submitter.lastName = this.submitter.name; 
       }
 
-      data.organization.zipCode = data.organization.zipCode.toUpperCase();
+      data.organization.state = data.organization.state.toUpperCase();
       
       return data;
     },
