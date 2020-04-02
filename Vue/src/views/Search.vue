@@ -74,7 +74,7 @@ export default {
     },
     async load() {
         this.loading = true;
-        axios.get("https://askformasks.azurewebsites.net/api/requests").then((d) => {
+        axios.get("https://askformasks.azurewebsites.net/api/requests/10").then((d) => {
           this.requests = d.data;
           this.loading = false;
         });
@@ -94,7 +94,7 @@ export default {
       if (!this.validateZipCode()) return;
       this.requests = null;
       this.loading = true;
-      axios.get(`https://askformasks.azurewebsites.net/api/requests/byzip/${this.zipCode}/distance/2500`).then(d => {
+      axios.get(`https://askformasks.azurewebsites.net/api/requests/byzip/${this.zipCode}/distance/200`).then(d => {
         this.requests = d.data.map(r => {
           r.request.organization.distanceInMiles = r.distanceInMiles;
           return r.request;

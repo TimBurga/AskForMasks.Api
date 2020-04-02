@@ -18,6 +18,7 @@
           </table>
         </div> -->
 
+        <div v-if="loading">Loading data...</div>
 
         <v-data-table
           :items="requests1"
@@ -28,8 +29,7 @@
           :hide-pagination="true"
           class="mt-3"
           :caption="title"
-          :loading="loading"
-          loading-text="Loading data..."
+          v-if="!loading"
           style="max-width: 1000px">
 
           <!-- <template v-slot:header="{ }">
@@ -55,21 +55,19 @@
                   <div class="">{{item.street}} </div>
                   <div class="">{{item.city}} {{item.state}}, {{item.zip}}</div>
                 </td>
-                <td class="hidden-sm-and-down">
+                <td class="hidden-sm-and-down" width="40%">
                   <div>{{item.contactName}}</div>
                   <div>{{item.email}} {{item.phone}}</div>
-                </td>
-                <td class="hidden-sm-and-down" width="40%">
                   <div class="mt-1  font-weight-light">{{item.description}}</div>
-                  <div class="mb-1 font-weight-light">{{item.specialInstructions}}</div>
+                  <div class="mb-1 font-weight-light" v-html="item.specialInstructions"></div>
                 </td>
                 <td class="hidden-md-and-up">
                   <div class="">{{item.street}} </div>
                   <div class="">{{item.city}} {{item.state}}, {{item.zip}}</div>
                   <div>{{item.contactName}}</div>
                   <div>{{item.email}} {{item.phone}}</div>
-                  <div class="mt-1  font-weight-light">{{item.description}}</div>
-                  <div class="mb-1 font-weight-light">{{item.specialInstructions}}</div>
+                  <div style="word-break: break-all" class="mt-1  font-weight-light">{{item.description}}</div>
+                  <div style="word-break: break-all" class="mb-1 font-weight-light" v-html="item.specialInstructions"></div>
                 </td>
               </tr>
             </tbody>
@@ -178,7 +176,6 @@ export default {
         { text: "Miles" , value: "distanceInMiles" },
         { text: "Name", value: "name" },
         { text: "Address", value: "address" },
-        { text: "Contact", value: "needs" },
         { text: "Description", value: "needs" },
       ];
 
@@ -207,11 +204,24 @@ function mapRequest(r) {
     contactInfo: [o.phone, o.email].filter(i => i).join(" "),
     description: o.description,
     needs: o.needs,
-    specialInstructions: o.specialInstructions,
+    specialInstructions: addLinkMarkup(o.specialInstructions),
     distanceInMiles: o.distanceInMiles,
     requestDate: new Date(r.requestDate).toLocaleDateString()
   };
 }
+
+function addLinkMarkup(text) {
+  if (!text) return text;
+  var regexUrl = /(https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9]+\.[^\s]{2,}|www\.[a-zA-Z0-9]+\.[^\s]{2,})/gi;
+  var match = text.match(regexUrl);
+  if (match) {
+    console.log(match);
+    text = text.replace(match[0], `<a href="${match[0]}">${match[0]}</a>`);
+  }
+  text = text.replace("Yes, find it here", " ");
+  return text;
+}
+
 </script>
 <style scoped>
 a {

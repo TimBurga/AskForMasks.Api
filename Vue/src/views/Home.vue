@@ -132,13 +132,19 @@ export default {
     makeMask() {
       this.$router.push("/makemask");
     },
-    async load() {
+    load() {
+      var self = this;
       this.loading = true;
-      this.recentRequests = (await axios.get("https://askformasks.azurewebsites.net/api/requests/10")).data;
-      var feedback = (await axios.get("https://askformasks.azurewebsites.net/api/brags/10")).data;
-      feedback.forEach(this.extendFeedback);
-      this.recentFeedback = feedback;
-      setTimeout(() => { this.loading = false; });
+      axios.get("https://askformasks.azurewebsites.net/api/requests/10").then(rsp => {
+        self.recentRequests = rsp.data;
+        self.loading = false;
+      });
+
+      axios.get("https://askformasks.azurewebsites.net/api/brags/10").then(rsp => {
+        rsp.data.forEach(self.extendFeedback);
+        self.recentFeedback = rsp.data;
+      });
+
     },
     addFeedback() {
       this.$router.push("/add-feedback");
