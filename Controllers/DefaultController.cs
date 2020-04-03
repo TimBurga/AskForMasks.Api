@@ -1,7 +1,6 @@
 ﻿namespace AskForMasksCoreVue.Controllers
 {
     using System;
-    using Microsoft.Extensions.Configuration;
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Mvc;
     using Models;
@@ -12,24 +11,24 @@
         private readonly IDataProvider _dataProvider;
         private readonly IGeocodingProvider _geocodingProvider;
 
-        public DefaultController(IConfiguration config)
+        public DefaultController(IDataProvider dataProvider, IGeocodingProvider geocodingProvider)
         {
-            _dataProvider = new CosmosDbDataProvider(config);
-            _geocodingProvider = new AzureMapsGeocodingProvider(config);
+            _dataProvider = dataProvider;
+            _geocodingProvider = geocodingProvider;
         }
 
         [HttpGet]
         [Route("/api/requests")]
-        public async Task<MaskRequest[]> AllRequests()
+        public MaskRequest[] AllRequests()
         {
-            return await _dataProvider.GetRequests(100);
+            return _dataProvider.GetRequests(100);
         }
 
         [HttpGet]
         [Route("/api/requests/{count}")]
-        public async Task<MaskRequest[]> SomeRequests(int count)
+        public MaskRequest[] SomeRequests(int count)
         {
-            return await _dataProvider.GetRequests(count);
+            return _dataProvider.GetRequests(count);
         }
 
         [HttpGet]
@@ -54,18 +53,25 @@
             await _dataProvider.SaveRequest(request);
         }
 
+        //[HttpPost]
+        //[Route("/api/import")]
+        //public void ImportRequest([FromBody] MaskRequest request)
+        //{
+        //    _dataProvider.Import(request);
+        //}
+
         [HttpGet]
         [Route("/api/brags")]
-        public async Task<Brag[]> AllBrags()
+        public Brag[] AllBrags()
         {
-            return await _dataProvider.GetBrags(100);
+            return _dataProvider.GetBrags(100);
         }
 
         [HttpGet]
         [Route("/api/brags/{count}")]
-        public async Task<Brag[]> SomeBrags(int count)
+        public Brag[] SomeBrags(int count)
         {
-            return await _dataProvider.GetBrags(count);
+            return _dataProvider.GetBrags(count);
         }
 
         [HttpPost]

@@ -1,7 +1,6 @@
 ﻿namespace AskForMasksCoreVue
 {
     using System;
-    using System.Collections.Generic;
     using System.Linq;
     using System.Threading.Tasks;
     using Microsoft.Azure.Cosmos;
@@ -11,27 +10,26 @@
 
     public interface IDataProvider
     {
-        Task<MaskRequest[]> GetRequests(int count);
+        MaskRequest[] GetRequests(int count);
         ZipSearchResult[] GetRequestsByPoint(Point point, string originZip, int radiusInMiles);
-        Task<Brag[]> GetBrags(int count);
+        Brag[] GetBrags(int count);
 
         Task SaveRequest(MaskRequest request);
         Task SaveBrag(Brag brag);
         Task SaveMessage(Message message);
+        //void Import(MaskRequest request);
     }
 
     public class CosmosDbDataProvider : IDataProvider
     {
-        private readonly CosmosClient _cosmosClient;
-        private readonly string _databaseId;
-        private readonly string _requestContainerId;
-        private readonly string _bragContainerId;
-        private readonly string _messageContainerId;
+        private readonly Container _requestContainer;
+        private readonly Container _bragContainer;
+        private readonly Container _messageContainer;
         private int _maxRecordsToReturn = 100;
 
         public CosmosDbDataProvider(IConfiguration config)
         {
-            _cosmosClient = new CosmosClient(config["EndpointUri"], config["PrimaryKey"], new CosmosClientOptions
+            var cosmosClient = new CosmosClient(config["EndpointUri"], config["PrimaryKey"], new CosmosClientOptions
             {
                 ApplicationName = "AskForMasks",
                 SerializerOptions = new CosmosSerializationOptions
@@ -39,36 +37,26 @@
                     PropertyNamingPolicy = CosmosPropertyNamingPolicy.CamelCase
                 }
             });
-            _databaseId = config["DatabaseId"];
-            _requestContainerId = config["RequestContainerId"];
-            _bragContainerId = config["BragContainerId"];
-            _messageContainerId = config["MessageContainerId"];
+
+            _requestContainer = cosmosClient.GetContainer(config["DatabaseId"], config["RequestContainerId"]);
+            _bragContainer = cosmosClient.GetContainer(config["DatabaseId"], config["BragContainerId"]);
+            _messageContainer = cosmosClient.GetContainer(config["DatabaseId"], config["MessageContainerId"]);
         }
 
-        public async Task<MaskRequest[]> GetRequests(int count = 100)
+        public MaskRequest[] GetRequests(int count = 100)
         {
-            var requestContainer = _cosmosClient.GetContainer(_databaseId, _requestContainerId);
-            var queryDefinition = new QueryDefinition($"SELECT * FROM MaskRequests ORDER BY MaskRequests.requestDate DESC");
+            var results = _requestContainer
+                .GetItemLinqQueryable<MaskRequest>(true)
+                .OrderByDescending(x => x.RequestDate)
+                .Take(Math.Min(count, _maxRecordsToReturn))
+                .ToArray();
 
-            var options = new QueryRequestOptions { MaxItemCount = Math.Min(count, _maxRecordsToReturn) };
-            var queryResultSetIterator = requestContainer.GetItemQueryIterator<MaskRequest>(queryDefinition, requestOptions: options);
-
-            var providers = new List<MaskRequest>();
-
-            while (queryResultSetIterator.HasMoreResults)
-            {
-                var currentResultSet = await queryResultSetIterator.ReadNextAsync();
-                providers.AddRange(currentResultSet);
-            }
-
-            return providers.ToArray();
+            return results;
         }
 
         public ZipSearchResult[] GetRequestsByPoint(Point point, string originZip, int radiusInMiles)
         {
-            var requestContainer = _cosmosClient.GetContainer(_databaseId, _requestContainerId);
-
-            var searchResults = requestContainer
+            var searchResults = _requestContainer
                 .GetItemLinqQueryable<MaskRequest>(true)
                 .Where(r => r.Organization.Geolocation.Distance(point) < radiusInMiles * 1609.34)
                 .Select(r => new ZipSearchResult
@@ -87,41 +75,57 @@
                 .ToArray();
         }
 
-        public async Task<Brag[]> GetBrags(int count = 100)
+        public Brag[] GetBrags(int count = 100)
         {
-            var bragContainer = _cosmosClient.GetContainer(_databaseId, _bragContainerId);
-            var queryDefinition = new QueryDefinition($"SELECT * FROM Brags ORDER BY Brags.submittedDate DESC");
-            
-            var options = new QueryRequestOptions { MaxItemCount = Math.Min(count, _maxRecordsToReturn) };
-            var queryResultSetIterator = bragContainer.GetItemQueryIterator<Brag>(queryDefinition, requestOptions: options);
+            var brags = _bragContainer
+                .GetItemLinqQueryable<Brag>(true)
+                .OrderByDescending(x => x.SubmittedDate)
+                .Take(Math.Min(count, _maxRecordsToReturn))
+                .ToArray();
 
-            var brags = new List<Brag>();
-
-            while (queryResultSetIterator.HasMoreResults)
-            {
-                var currentResultSet = await queryResultSetIterator.ReadNextAsync();
-                brags.AddRange(currentResultSet);
-            }
-
-            return brags.ToArray();
+            return brags;
         }
 
         public async Task SaveRequest(MaskRequest request)
         {
-            var requestContainer = _cosmosClient.GetContainer(_databaseId, _requestContainerId);
-            await requestContainer.UpsertItemAsync(request);
+            await _requestContainer.UpsertItemAsync(request);
         }
 
         public async Task SaveBrag(Brag brag)
         {
-            var feedbackContainer = _cosmosClient.GetContainer(_databaseId, _bragContainerId);
-            await feedbackContainer.CreateItemAsync(brag);
+            await _bragContainer.CreateItemAsync(brag);
         }
 
         public async Task SaveMessage(Message message)
         {
-            var messageContainer = _cosmosClient.GetContainer(_databaseId, _messageContainerId);
-            await messageContainer.CreateItemAsync(message);
+            await _messageContainer.CreateItemAsync(message);
         }
+
+        //public void Import(MaskRequest request)
+        //{
+        //    var name = request.Organization.Name;
+        //    var city = request.Organization.City;
+        //    var state = request.Organization.State;
+
+        //    var existing = _requestContainer
+        //        .GetItemLinqQueryable<MaskRequest>(true)
+        //        .SingleOrDefault(x => x.Organization.Name == name 
+        //                          && x.Organization.City == city 
+        //                          && x.Organization.State == state);
+
+
+
+        //    //is this right?
+
+
+
+        //    if (existing == null)
+        //    {
+        //        request.Id = Guid.NewGuid().ToString();
+        //        request.RequestDate = DateTime.Now;
+        //    }
+
+        //    _requestContainer.UpsertItemAsync(request);
+        //}
     }
 }
