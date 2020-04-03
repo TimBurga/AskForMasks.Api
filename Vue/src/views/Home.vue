@@ -44,11 +44,11 @@
                 hide-default-footer
                 style="max-width: 600px"
                 class="mt-3 hidden-md-and-down"
-                caption="Are you working on masks? Tell the world!"
+                caption="Our volunteers say:"
               >
                 <template v-slot:footer="{ }">
                   <div align="center" class="mt-4">
-                    <v-btn x-small @click="addFeedback">Done your part?</v-btn>
+                    <v-btn x-small @click="addFeedback">Are you working on masks? Tell the world!</v-btn>
                   </div>
                 </template>
               </v-data-table>
@@ -84,6 +84,24 @@
           <v-row justify="center">
             <v-col lg="8">
               <request-table :requests="recentRequests" :loading="loading" :compact="true" title="Recent requests"></request-table>
+            </v-col>
+          </v-row>
+
+          <v-btn v-if="!loading" color="primary" class="hidden-lg-and-up" @click="search">Search requests in your area</v-btn>
+
+<hr class="mt-3 hidden-lg-and-up">
+
+          <v-row class="hidden-lg-and-up">
+            <v-col cols="12" class="mt-2 font-weight-bold">
+              <div>Our volunteers say:</div>
+            </v-col>
+            <v-col cols="12" v-for="item in recentFeedback" :key="item.id" style="font-size: 90%">
+              <div>
+                <span style="font-style: italic">{{item.name}} from {{item.address}}:</span> {{item.comment}}
+              </div>
+            </v-col>
+            <v-col cols="12" align="center" class="mt-2">
+                <v-btn x-small @click="addFeedback">Are you working on masks? Tell the world!</v-btn>
             </v-col>
           </v-row>
 

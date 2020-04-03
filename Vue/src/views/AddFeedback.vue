@@ -4,7 +4,7 @@
       <v-form ref="form" v-model="valid">
         <v-row align="center">
           <v-col cols="12">
-            <h1 class="display-1" align="center" justify="center">Have you delivered masks? Tell the world!</h1>
+            <h1 class="display-1" align="center" justify="center">Are you working on masks? Tell the world!</h1>
           </v-col>
         </v-row>
 

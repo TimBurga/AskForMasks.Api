@@ -2,22 +2,6 @@
   <div>
     <v-row>
       <v-col>
-        <!-- <div v-if="compact">
-          <table>
-            <tr v-for="r in requests1" :key="r.id" style="text-align: center" class="pt-2">
-              <td class="">
-                <router-link to="/search">{{r.name}}</router-link>
-              </td>
-              <td>
-                {{r.city}} {{r.state}}
-              </td>
-              <td>
-                {{r.requestDate}}
-              </td>
-            </tr>
-          </table>
-        </div> -->
-
         <div v-if="loading">Loading data...</div>
 
         <v-data-table
@@ -32,40 +16,33 @@
           v-if="!loading"
           style="max-width: 1000px">
 
-          <!-- <template v-slot:header="{ }">
-            <thead>
-              <th>Organization</th>
-              <th>Address</th>
-              <th>Contact</th>
-              <th>Description</th>
-            </thead>
-          </template> -->
-
           <template v-slot:body="{ items }">
             <tbody v-if="!compact">
               <tr v-for="item in items" :key="item.id" class="no-hover">
                 <td class="hidden-sm-and-down" width="8%" v-if="showDistanceColumn">
                   <div class="">{{item.distanceInMiles}}</div>
                 </td>
-                <td width="20%">
-                  <div class="subtitle-1 font-weight-bold">{{item.name}}</div>
-                  <div v-if="showDistanceColumn" class="hidden-md-and-up">{{item.distanceInMiles}} mile(s)</div>
-                </td>
-                <td class="hidden-sm-and-down" v-if="!compact">
+                <td class="hidden-sm-and-down" v-if="!compact" width="30%">
+                  <div class="font-weight-bold">{{item.name}}</div>
                   <div class="">{{item.street}} </div>
                   <div class="">{{item.city}} {{item.state}}, {{item.zip}}</div>
                 </td>
-                <td class="hidden-sm-and-down" width="40%">
+                <td class="hidden-sm-and-down">
                   <div>{{item.contactName}}</div>
                   <div>{{item.email}} {{item.phone}}</div>
                   <div class="mt-1  font-weight-light">{{item.description}}</div>
                   <div class="mb-1 font-weight-light" v-html="item.specialInstructions"></div>
                 </td>
                 <td class="hidden-md-and-up">
-                  <div class="">{{item.street}} </div>
-                  <div class="">{{item.city}} {{item.state}}, {{item.zip}}</div>
-                  <div>{{item.contactName}}</div>
-                  <div>{{item.email}} {{item.phone}}</div>
+                  <div class="subtitle-1 font-weight-bold" align="center">
+                    <div>{{item.name}}
+                      <span v-if="showDistanceColumn" class="hidden-md-and-up">- {{item.distanceInMiles}} miles</span>
+                    </div>
+                  </div>
+                  <div align="center">{{item.street}} </div>
+                  <div align="center">{{item.city}} {{item.state}}, {{item.zip}}</div>
+                  <div  align="center">{{item.contactName}}</div>
+                  <div  align="center">{{item.email}} {{item.phone}}</div>
                   <div style="word-break: break-all" class="mt-1  font-weight-light">{{item.description}}</div>
                   <div style="word-break: break-all" class="mb-1 font-weight-light" v-html="item.specialInstructions"></div>
                 </td>
@@ -74,11 +51,13 @@
 
             <tbody v-if="compact">
               <tr v-for="item in items" :key="item.id" @click="goToSearch">
-                <td class="font-weight-bold">
-                  <router-link to="/search">{{item.name}}</router-link>
-                </td>
                 <td>
-                  {{item.city}} {{item.state}}
+                  <div>
+                    <router-link class="font-weight-bold" to="/search">{{item.name}}</router-link>
+                  </div>
+                  <div>
+                    {{item.city}} {{item.state}}
+                  </div>
                 </td>
                 <td>
                   {{item.requestDate}}
@@ -112,6 +91,8 @@
 </template>
 
 <script>
+import _ from "lodash"
+
 export default {
   props: ["requests", "compact", "loading", "title"],
   components: {},
@@ -175,8 +156,7 @@ export default {
       var result = [
         { text: "Miles" , value: "distanceInMiles" },
         { text: "Name", value: "name" },
-        { text: "Address", value: "address" },
-        { text: "Description", value: "needs" },
+        { text: "Instructions", value: "address" },
       ];
 
       if (!this.showDistanceColumn) result.splice(0, 1);
@@ -216,7 +196,8 @@ function addLinkMarkup(text) {
   var match = text.match(regexUrl);
   if (match) {
     console.log(match);
-    text = text.replace(match[0], `<a href="${match[0]}">${match[0]}</a>`);
+    var link = _.trim(match[0], " .");
+    text = text.replace(match[0], `<a href="${link}" target="_blank">${link}</a>`);
   }
   text = text.replace("Yes, find it here", " ");
   return text;
