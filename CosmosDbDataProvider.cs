@@ -18,7 +18,7 @@
         Task SaveRequest(MaskRequest request);
         Task SaveBrag(Brag brag);
         Task SaveMessage(Message message);
-        void BulkImport(BulkImportRequest bulk);
+        Task BulkImport(BulkImportRequest bulk);
     }
 
     public class CosmosDbDataProvider : IDataProvider
@@ -122,7 +122,7 @@
             await _messageContainer.CreateItemAsync(message);
         }
 
-        public void BulkImport(BulkImportRequest bulk)
+        public async Task BulkImport(BulkImportRequest bulk)
         {
             foreach (var request in bulk.Requests)
             {
@@ -140,16 +140,18 @@
 
                 if (existing.Any())
                 {
-                    request.Id = existing.First().Id;
-                    _requestContainer.UpsertItemAsync(request);
+                    var source = existing.First();
+                    request.Id = source.Id;
+                    request.RequestDate = source.RequestDate;
+                    request.Organization.Geolocation = source.Organization.Geolocation;
+                    await _requestContainer.UpsertItemAsync(request);
                 }
                 else
                 {
-                    _geocodingProvider.Locate(request);
-
                     request.Id = Guid.NewGuid().ToString();
                     request.RequestDate = DateTime.Now;
-                    _requestContainer.UpsertItemAsync(request);
+                    await _geocodingProvider.Locate(request);
+                    await _requestContainer.UpsertItemAsync(request);
                 }
             }
         }
