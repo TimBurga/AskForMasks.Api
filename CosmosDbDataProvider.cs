@@ -11,8 +11,9 @@
     public interface IDataProvider
     {
         MaskRequest[] GetRequests(int count);
-        ZipSearchResult[] GetRequestsByPoint(Point point, string originZip, int radiusInMiles);
+        ZipSearchResult[] GetRequestsByZipCode(Point point, string originZip, int radiusInMiles);
         Brag[] GetBrags(int count);
+        int GetRequestCount();
 
         Task SaveRequest(MaskRequest request);
         Task SaveBrag(Brag brag);
@@ -22,13 +23,15 @@
 
     public class CosmosDbDataProvider : IDataProvider
     {
+        private readonly IGeocodingProvider _geocodingProvider;
         private readonly Container _requestContainer;
         private readonly Container _bragContainer;
         private readonly Container _messageContainer;
         private int _maxRecordsToReturn = 100;
 
-        public CosmosDbDataProvider(IConfiguration config)
+        public CosmosDbDataProvider(IConfiguration config, IGeocodingProvider geocodingProvider)
         {
+            _geocodingProvider = geocodingProvider;
             var cosmosClient = new CosmosClient(config["EndpointUri"], config["PrimaryKey"], new CosmosClientOptions
             {
                 ApplicationName = "AskForMasks",
@@ -54,7 +57,7 @@
             return results;
         }
 
-        public ZipSearchResult[] GetRequestsByPoint(Point point, string originZip, int radiusInMiles)
+        public ZipSearchResult[] GetRequestsByZipCode(Point point, string originZip, int radiusInMiles)
         {
             var searchResults = _requestContainer
                 .GetItemLinqQueryable<MaskRequest>(true)
@@ -86,18 +89,36 @@
             return brags;
         }
 
+        public int GetRequestCount()
+        {
+            return _requestContainer
+                .GetItemLinqQueryable<object>(true)
+                .Count();
+        }
+
         public async Task SaveRequest(MaskRequest request)
         {
+            if (string.IsNullOrEmpty(request.Id))
+            {
+                request.Id = Guid.NewGuid().ToString();
+                request.RequestDate = DateTime.Now;
+            }
+
+            await _geocodingProvider.Locate(request);
             await _requestContainer.UpsertItemAsync(request);
         }
 
         public async Task SaveBrag(Brag brag)
         {
+            brag.Id = Guid.NewGuid().ToString();
+            brag.SubmittedDate = DateTime.Now;
             await _bragContainer.CreateItemAsync(brag);
         }
 
         public async Task SaveMessage(Message message)
         {
+            message.Id = Guid.NewGuid().ToString();
+            message.SubmittedDate = DateTime.Now;
             await _messageContainer.CreateItemAsync(message);
         }
 
@@ -124,6 +145,8 @@
                 }
                 else
                 {
+                    _geocodingProvider.Locate(request);
+
                     request.Id = Guid.NewGuid().ToString();
                     request.RequestDate = DateTime.Now;
                     _requestContainer.UpsertItemAsync(request);

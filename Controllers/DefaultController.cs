@@ -25,6 +25,13 @@
         }
 
         [HttpGet]
+        [Route("/api/requests/count")]
+        public int RequestCount()
+        {
+            return _dataProvider.GetRequestCount();
+        }
+
+        [HttpGet]
         [Route("/api/requests/{count}")]
         public MaskRequest[] SomeRequests(int count)
         {
@@ -36,20 +43,13 @@
         public async Task<ZipSearchResult[]> RequestsByZipCode(string zipCode, int radius)
         {
             var point = await _geocodingProvider.GeocodeZip(zipCode);
-            return _dataProvider.GetRequestsByPoint(point, zipCode, radius);
+            return _dataProvider.GetRequestsByZipCode(point, zipCode, radius);
         }
 
         [HttpPost]
         [Route("/api/request")]
         public async Task SaveRequest([FromBody]MaskRequest request)
         {
-            if (string.IsNullOrEmpty(request.Id))
-            {
-                request.Id = Guid.NewGuid().ToString();
-                request.RequestDate = DateTime.Now;
-            }
-
-            await _geocodingProvider.Locate(request);
             await _dataProvider.SaveRequest(request);
         }
 
@@ -78,8 +78,6 @@
         [Route("/api/brag")]
         public async Task SaveBrag([FromBody]Brag brag)
         {
-            brag.Id = Guid.NewGuid().ToString();
-            brag.SubmittedDate = DateTime.Now;
             await _dataProvider.SaveBrag(brag);
         }
 
@@ -87,8 +85,6 @@
         [Route("/api/message")]
         public async Task SaveMessage([FromBody] Message message)
         {
-            message.Id = Guid.NewGuid().ToString();
-            message.SubmittedDate = DateTime.Now;
             await _dataProvider.SaveMessage(message);
         }
 
