@@ -53,12 +53,12 @@
             await _dataProvider.SaveRequest(request);
         }
 
-        //[HttpPost]
-        //[Route("/api/import")]
-        //public void ImportRequest([FromBody] MaskRequest request)
-        //{
-        //    _dataProvider.Import(request);
-        //}
+        [HttpPost]
+        [Route("/api/request/bulk")]
+        public void ImportRequests([FromBody] BulkImportRequest requests)
+        {
+            _dataProvider.BulkImport(requests);
+        }
 
         [HttpGet]
         [Route("/api/brags")]

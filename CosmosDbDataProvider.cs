@@ -17,7 +17,7 @@
         Task SaveRequest(MaskRequest request);
         Task SaveBrag(Brag brag);
         Task SaveMessage(Message message);
-        //void Import(MaskRequest request);
+        void BulkImport(BulkImportRequest bulk);
     }
 
     public class CosmosDbDataProvider : IDataProvider
@@ -101,31 +101,34 @@
             await _messageContainer.CreateItemAsync(message);
         }
 
-        //public void Import(MaskRequest request)
-        //{
-        //    var name = request.Organization.Name;
-        //    var city = request.Organization.City;
-        //    var state = request.Organization.State;
+        public void BulkImport(BulkImportRequest bulk)
+        {
+            foreach (var request in bulk.Requests)
+            {
+                var name = request.Organization.Name;
+                var city = request.Organization.City;
+                var state = request.Organization.State;
 
-        //    var existing = _requestContainer
-        //        .GetItemLinqQueryable<MaskRequest>(true)
-        //        .SingleOrDefault(x => x.Organization.Name == name 
-        //                          && x.Organization.City == city 
-        //                          && x.Organization.State == state);
+                var existing = _requestContainer
+                    .GetItemLinqQueryable<MaskRequest>(true)
+                    .Where(x => x.Organization.Name == name
+                              && x.Organization.City == city
+                              && x.Organization.State == state)
+                    .Select(x => x)
+                    .ToList();
 
-
-
-        //    //is this right?
-
-
-
-        //    if (existing == null)
-        //    {
-        //        request.Id = Guid.NewGuid().ToString();
-        //        request.RequestDate = DateTime.Now;
-        //    }
-
-        //    _requestContainer.UpsertItemAsync(request);
-        //}
+                if (existing.Any())
+                {
+                    request.Id = existing.First().Id;
+                    _requestContainer.UpsertItemAsync(request);
+                }
+                else
+                {
+                    request.Id = Guid.NewGuid().ToString();
+                    request.RequestDate = DateTime.Now;
+                    _requestContainer.UpsertItemAsync(request);
+                }
+            }
+        }
     }
 }
