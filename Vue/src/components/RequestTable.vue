@@ -7,8 +7,8 @@
         <v-data-table
           :items="requests1"
           :headers="requestHeaders"
-          :items-per-page="10"
-          :hide-default-footer="compact"
+          :items-per-page="50"
+          :hide-default-footer="true"
           :hide-default-header="compact"
           :hide-pagination="true"
           class="mt-3"
@@ -168,7 +168,6 @@ export default {
 
 function mapRequest(r) {
   var o = r.organization;
-  console.log(o);
   return {
     name: o.name,
     address: `${o.addressLine1} ${o.addressLine2} ${o.city} ${o.state} ${o.zipCode}`,
@@ -195,7 +194,6 @@ function addLinkMarkup(text) {
   var regexUrl = /(https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9]+\.[^\s]{2,}|www\.[a-zA-Z0-9]+\.[^\s]{2,})/gi;
   var match = text.match(regexUrl);
   if (match) {
-    console.log(match);
     var link = _.trim(match[0], " .");
     text = text.replace(match[0], `<a href="${link}" target="_blank">${link}</a>`);
   }

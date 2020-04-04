@@ -81,9 +81,9 @@
 
           <v-btn color="primary" class="mt-4" @click="search">Search requests in your area</v-btn>
 
-          <v-row justify="center">
+          <v-row justify="center" v-if="totalRequests">
             <v-col lg="8">
-              <request-table :requests="recentRequests" :loading="loading" :compact="true" title="Recent requests"></request-table>
+              <request-table :requests="recentRequests" :loading="loading" :compact="true" :title="totalRequests + ' organizations requesting masks:'"></request-table>
             </v-col>
           </v-row>
 
@@ -123,6 +123,7 @@ export default {
     return {
       recentRequests: [],
       recentFeedback: [],
+      totalRequests: null,
       feedbackHeaders: [
         { text: "Name", value: "name" },
         { text: "Address", value: "address" },
@@ -161,6 +162,10 @@ export default {
       axios.get("https://askformasks.azurewebsites.net/api/brags/10").then(rsp => {
         rsp.data.forEach(self.extendFeedback);
         self.recentFeedback = rsp.data;
+      });
+
+      axios.get("https://askformasks.azurewebsites.net/api/requests/count").then(rsp => {
+        self.totalRequests = rsp.data;
       });
 
     },

@@ -1,0 +1,3842 @@
+Sending  [
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Homer',
+      zipCode: '99603',
+      state: 'AK',
+      original: 'Homer, AK',
+      name: 'South Peninsula Hospital',
+      specialInstructions: 'As many as possible. Deliver to:  Skiff Chick Custom Designs 200 E Pioneer Ave,  Homer, AK 99603',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Bethel',
+      zipCode: '99559',
+      state: 'AK',
+      original: 'Bethel, AK',
+      name: 'Yukon-Kuskokwim Delta Regional Hospital',
+      specialInstructions: 'Only taking those made with their kits. Yes, they will give you kits with everything except thread. Do not come to the hospital for mask kits and do not drop completed masks off at the hospital.  Pick up materials and drop off completed masks M-F 8 AM to 4 PM at  Bethel Community Services Foundation  1795 Chief Eddie Hoffman Highway,  Bethel, AK 99559. 907-543-1812',
+      phone: '907-543-1812',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '3316 US-280',
+      city: 'Alexander City',
+      zipCode: '35010',
+      state: 'AL',
+      original: '3316 US-280,Alexander City, AL 35010',
+      name: 'Russell Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://russellcares.com/wp-content/uploads/2020/03/Mask-Production-Instructions_Revised.pdf. Drop off at the Medical Park Professional Office Building main entrance M-F between 8 AM and 4 PM. You can hand them to the hospital personnel stationed there without leaving your car.',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '2615 Chester Ave',
+      city: 'Bakersfield',
+      zipCode: '93301',
+      state: 'CA',
+      original: '2615 Chester Ave, Bakersfield, CA 93301',
+      name: 'Adventist Health Bakersfield',
+      specialInstructions: 'As many as possible. Go to the emergency room entrance. Call 661-869-6200 when you arrive and state that you have a mask donation. Ask to speak to a supervisor and they will meet you at your car.. 661-869-6200',
+      phone: '661-869-6200',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1 Marcela Dr',
+      city: 'Willits',
+      zipCode: '95490',
+      state: 'CA',
+      original: '1 Marcela Dr,Willits, CA 95490',
+      name: 'Adventist Health Howard Memorial',
+      specialInstructions: 'As many as possible. Drop off at security at the hospital main entrance.. 707-459-6801',
+      phone: '707-459-6801',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '10 Woodland Rd',
+      city: 'St Helena',
+      zipCode: '94574',
+      state: 'CA',
+      original: '10 Woodland Rd, St Helena, CA 94574',
+      name: 'Adventist Health St. Helena',
+      specialInstructions: 'As many as possible. Will begin accepting donations Mon 3/23/2020. Drop them off with Emergency Room security.. 707-963-3611',
+      phone: '707-963-3611',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: 'Avenue of Industry',
+      city: 'San Diego',
+      zipCode: '11878',
+      state: 'CA',
+      original: '11878 Avenue of Industry,San Diego, CA92128',
+      name: 'Aurora Behavioral Health Center',
+      specialInstructions: 'As many as possible. Arrange drop off with  Liz Roobs at (858) 875-4233. Contact is Liz Roobs at 858-875-4233',
+      phone: '858-875-4233',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '4140 W 190th St',
+      city: 'Torrance',
+      zipCode: '90504',
+      state: 'CA',
+      original: '4140 W 190th St, Torrance, CA 90504',
+      name: 'Cedars-Sinai Medical',
+      specialInstructions: 'As many as possible. Go to:  www.cedars-sinai.org/giving  or call to coordinate drop-off http://www.cedars-sinai.org/giving. 323 ‐ 866 ‐ 6343',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '845 Jackson St',
+      city: 'San Francisco',
+      zipCode: '94133',
+      state: 'CA',
+      original: '845 Jackson St,San Francisco, CA94133',
+      name: 'Chinese Hospital',
+      specialInstructions: 'As many as possible. Go to the front desk and ask them to page the nursing supervisor.. 415-677-2300',
+      phone: '415-677-2300',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '825 Delbon Ave',
+      city: 'Turlock',
+      zipCode: '95382',
+      state: 'CA',
+      original: '825 Delbon Ave,Turlock, CA95382',
+      name: 'Emanuel Medical Center',
+      specialInstructions: '3,000. COMING SOON. COMING SOON. 209-993-2152',
+      phone: '209-993-2152',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: 'Ventura Blvd',
+      city: 'Encino',
+      zipCode: '16237',
+      state: 'CA',
+      original: '16237 Ventura Blvd, Encino, CA91436',
+      name: 'Encino Hospital Medical Center',
+      specialInstructions: 'As many as possible. Leave with security at the front desk. 818-995-5000',
+      phone: '818-995-5000',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '444 Bruce St',
+      city: 'Yreka',
+      zipCode: '96097',
+      state: 'CA',
+      original: '444 Bruce St Yreka, CA 96097',
+      name: 'Fairchild Medical Center',
+      specialInstructions: 'As many as possible. Drop off at the front desk.. 530-842-4121',
+      phone: '530-842-4121',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '250 S Grand Ave',
+      city: 'Glendora',
+      zipCode: '91741',
+      state: 'CA',
+      original: '250 S Grand Ave Glendora, CA 91741',
+      name: 'Foothill Presbyterian Hospital',
+      specialInstructions: 'As many as possible. Yes -  here  or  here  or  here .https://www.youtube.com/watch?v=VgHrnS6n4iA&feature=emb_title, https://drive.google.com/a/berkeley.edu/file/d/1jiK8L8xvF5xDoduSbqvUvgom3GMMDE3L/view?usp=sharing, https://drive.google.com/a/berkeley.edu/file/d/1dFBx4beQNYAANP7S73ufQ9FloK01OcmN/view?usp=sharing. Coordinate all donations with Jonathan Lorenzo at the Emanate Health Foundation (626-814-2421). 626-814-2421',
+      phone: '626-814-2421',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1911 Johnson Ave',
+      city: 'San Luis Obispo',
+      zipCode: '93401',
+      state: 'CA',
+      original: '1911 Johnson Ave,San Luis Obispo, CA 93401',
+      name: 'French Hospital Medical Center',
+      specialInstructions: 'As many as possible. Coordinate with their foundation (805-542-6496) to drop off donations at the loading dock. 805-542-6496',
+      phone: '805-542-6496',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '300 Canal St',
+      city: 'King City',
+      zipCode: '93930',
+      state: 'CA',
+      original: '300 Canal St King City, CA 93930',
+      name: 'George L Mee Memorial Hospital',
+      specialInstructions: 'As many as possible. Leave with the security guard at the entrance at 300 Canal Street. 831-385-6000',
+      phone: '831-385-6000',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '1420 S Central Ave',
+      city: 'Glendale',
+      zipCode: '91204',
+      state: 'CA',
+      original: '1420 S Central Ave Glendale, CA 91204',
+      name: 'Glendale Memorial Hospital and Health Center',
+      specialInstructions: 'As many as possible. Bring the donation and the  in-kind donation form  to the lobby or coordinate a pick-up with Dan Murph, VP of Philanthropy (919-942-0521).https://drive.google.com/a/berkeley.edu/file/d/1_So1W0ftvkNZnd7louuOoR5MvZjCW_Cf/view?usp=sharing. 919-942-0521',
+      phone: '919-942-0521',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '351 S Patterson Ave',
+      city: 'Goleta',
+      zipCode: '93111',
+      state: 'CA',
+      original: '351 S Patterson Ave Goleta, CA 93111',
+      name: 'Goleta Valley Cottage Hospital',
+      specialInstructions: 'As many as possible. Donation drive-through 10-5pm Monday-Friday, in the parking lot adjacent to the hospital on Patterson.. 805-967-3411',
+      phone: '805-967-3411',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '901 Olive Dr',
+      city: 'Bakersfield',
+      zipCode: '93308',
+      state: 'CA',
+      original: '901 Olive Dr Bakersfield, CA 93308',
+      name: 'Good Samaritan Hospital',
+      specialInstructions: 'As many as possible. Coordinate donations with Tandeer Khaira (661-215-7713). 661-215-7713',
+      phone: '661-215-7713',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '5555 Grossmont Center Dr',
+      city: 'La Mesa',
+      zipCode: '91942',
+      state: 'CA',
+      original: '5555 Grossmont Center Dr La Mesa, CA 91942',
+      name: 'Grossmont Hospital',
+      specialInstructions: 'As many as possible. Drop off donations at Brier Patch (9000 Wakarusa St), daily until 4pm. 619-740-4401',
+      phone: '619-740-4401',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1375 University Ave',
+      city: 'Healdsburg',
+      zipCode: '95448',
+      state: 'CA',
+      original: '1375 University Ave,Healdsburg, CA95448',
+      name: 'Healdsburg District Hospital',
+      specialInstructions: 'As many as possible. Leave donations in box outside main entrance. 707-431-6500',
+      phone: '707-431-6500',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '290 Turk St',
+      city: 'San Francisco',
+      zipCode: '94102',
+      state: 'CA',
+      original: '290 Turk St,San Francisco, CA94102',
+      name: 'Hospitality House',
+      specialInstructions: '20-50+. Contact 510-779-8468. 510-779-8468',
+      phone: '510-779-8468',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '601 24th st',
+      city: 'Bakersfield',
+      zipCode: '93301',
+      state: 'CA',
+      original: '601 24th st,\u000bBakersfield, CA 93301',
+      name: 'Housing Authority of the County of Kern',
+      specialInstructions: '500. Call number, ask for Johnny Montez, to coordinate. Adult sizes requested. 661-428-1353',
+      phone: '661-428-1353',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '210 W San Bernardino Rd',
+      city: 'Covina',
+      zipCode: '91723',
+      state: 'CA',
+      original: '210 W San Bernardino Rd Covina, CA 91723',
+      name: 'Inter-Community Hospital',
+      specialInstructions: 'As many as possible. Yes -  here  or  here  or  here .https://www.youtube.com/watch?v=VgHrnS6n4iA&feature=emb_title, https://drive.google.com/a/berkeley.edu/file/d/1jiK8L8xvF5xDoduSbqvUvgom3GMMDE3L/view?usp=sharing, https://drive.google.com/a/berkeley.edu/file/d/1dFBx4beQNYAANP7S73ufQ9FloK01OcmN/view?usp=sharing. Coordinate all donations with Jonathan Lorenzo at the Emanate Health Foundation (626-814-2421). 626-814-2421',
+      phone: '626-814-2421',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Walnut Creek',
+      zipCode: '94595',
+      state: 'CA',
+      original: 'Walnut Creek, CA',
+      name: 'John Muir Medical Center - Walnut Creek',
+      specialInstructions: 'As many as possible. Yes, find it here. http://thewannabegrandma.com/wp-content/uploads/2020/03/JMHF_Face-Mask-Specs_COVID19_Flyer.pdf. Drop off at: Tuolumne Center 175 La Casa Via, Walnut Creek, CA 94598.   Find donation form here .http://thewannabegrandma.com/wp-content/uploads/2020/03/JMHF_In-kind-Donation-Form_COVID19_Final.pdf. 925-947-4449 or email foundation@givehealthjmh.org',
+      phone: '925-947-4449',
+      email: 'foundation@givehealthjmh.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '9961 Sierra Ave',
+      city: 'Fontana',
+      zipCode: '92335',
+      state: 'CA',
+      original: '9961 Sierra Ave Fontana, CA 92335',
+      name: 'Kaiser Foundation Hospital - Fontana',
+      specialInstructions: 'As many as possible. Yes, find it here  and find the  video tutorial here   https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf, https://www.youtube.com/watch?v=4aMCFnK5bHk&feature=youtu.be. Contact  KPCOVID-19Donations@kp.org   to coordinate delivery. mailto:KPCOVID-19Donations@kp.org. Contact is  KPCOVID-19Donations@kp.org   mailto:KPCOVID-19Donations@kp.org',
+      phone: null,
+      email: 'KPCOVID-19Donations@kp.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: 'Paseo Padre Pkwy  94538',
+      city: 'Fremont',
+      zipCode: '39400',
+      state: 'CA',
+      original: '39400 Paseo Padre Pkwy Fremont, CA 94538',
+      name: 'Kaiser Foundation Hospital - Fremont',
+      specialInstructions: 'As many as possible. Yes, find it here  and find the  video tutorial here  https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf, https://www.youtube.com/watch?v=4aMCFnK5bHk&feature=youtu.be. Contact  KPCOVID-19Donations@kp.org   to coordinate delivery. mailto:KPCOVID-19Donations@kp.org. Contact is  KPCOVID-19Donations@kp.org   mailto:KPCOVID-19Donations@kp.org',
+      phone: null,
+      email: 'KPCOVID-19Donations@kp.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '4867 Sunset Blvd',
+      city: 'Los Angeles',
+      zipCode: '90027',
+      state: 'CA',
+      original: '4867 Sunset Blvd Los Angeles, CA 90027',
+      name: 'Kaiser Foundation Hospital - Los Angeles',
+      specialInstructions: 'As many as possible. Yes, find it here  and find the  video tutorial here   https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf, https://www.youtube.com/watch?v=4aMCFnK5bHk&feature=youtu.be. Contact  KPCOVID-19Donations@kp.org   to coordinate delivery. mailto:KPCOVID-19Donations@kp.org. Contact is  KPCOVID-19Donations@kp.org   mailto:KPCOVID-19Donations@kp.org',
+      phone: null,
+      email: 'KPCOVID-19Donations@kp.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '275 West MacArthur Boulevard',
+      city: 'Oakland',
+      zipCode: '94611',
+      state: 'CA',
+      original: '275 West MacArthur Boulevard Oakland, CA 94611',
+      name: 'Kaiser Foundation Hospital - Oakland/Richmond',
+      specialInstructions: 'As many as possible. Yes, find it here  and find the  video tutorial here  https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf, https://www.youtube.com/watch?v=4aMCFnK5bHk&feature=youtu.be. Contact  KPCOVID-19Donations@kp.org   to coordinate delivery. mailto:KPCOVID-19Donations@kp.org. Contact is  KPCOVID-19Donations@kp.org   mailto:KPCOVID-19Donations@kp.org',
+      phone: null,
+      email: 'KPCOVID-19Donations@kp.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '3440 E La Palma Ave',
+      city: 'Anaheim',
+      zipCode: '92806',
+      state: 'CA',
+      original: '3440 E La Palma Ave Anaheim, CA 92806',
+      name: 'Kaiser Foundation Hospital - Orange County/Anaheim',
+      specialInstructions: 'As many as possible. Yes, find it here  and find the  video tutorial here  https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf, https://www.youtube.com/watch?v=4aMCFnK5bHk&feature=youtu.be. Contact  KPCOVID-19Donations@kp.org   to coordinate delivery. . mailto:KPCOVID-19Donations@kp.org. Contact is  KPCOVID-19Donations@kp.org   mailto:KPCOVID-19Donations@kp.org',
+      phone: null,
+      email: 'KPCOVID-19Donations@kp.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1600 Eureka Rd',
+      city: 'Roseville',
+      zipCode: '95661',
+      state: 'CA',
+      original: '1600 Eureka Rd Roseville, CA 95661',
+      name: 'Kaiser Foundation Hospital - Roseville',
+      specialInstructions: 'As many as possible. Yes, find it here  and find the  video tutorial here  https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf, https://www.youtube.com/watch?v=4aMCFnK5bHk&feature=youtu.be. Contact  KPCOVID-19Donations@kp.org   to coordinate delivery. mailto:KPCOVID-19Donations@kp.org. Contact is  KPCOVID-19Donations@kp.org   mailto:KPCOVID-19Donations@kp.org',
+      phone: null,
+      email: 'KPCOVID-19Donations@kp.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '2425 Geary Blvd',
+      city: 'San Francisco',
+      zipCode: '94115',
+      state: 'CA',
+      original: '2425 Geary Blvd San Francisco, CA 94115',
+      name: 'Kaiser Foundation Hospital - San Francisco',
+      specialInstructions: 'As many as possible. Yes, find it here  and find the  video tutorial here  https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf, https://www.youtube.com/watch?v=4aMCFnK5bHk&feature=youtu.be. Contact  KPCOVID-19Donations@kp.org   to coordinate delivery. mailto:KPCOVID-19Donations@kp.org. Contact is  KPCOVID-19Donations@kp.org   mailto:KPCOVID-19Donations@kp.org',
+      phone: null,
+      email: 'KPCOVID-19Donations@kp.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '99 Montecillo Rd',
+      city: 'San Rafael',
+      zipCode: '94903',
+      state: 'CA',
+      original: '99 Montecillo Rd San Rafael, CA 94903',
+      name: 'Kaiser Foundation Hospital - San Rafael',
+      specialInstructions: 'As many as possible. Yes, find it here  and find the  video tutorial here  https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf, https://www.youtube.com/watch?v=4aMCFnK5bHk&feature=youtu.be. Drop off Monday-Friday 8am-5pm at the hospital entrance. Direct questions to  KPCOVID-19Donations@kp.org . mailto:KPCOVID-19Donations@kp.org. Contact is  KPCOVID-19Donations@kp.org   mailto:KPCOVID-19Donations@kp.org',
+      phone: null,
+      email: 'KPCOVID-19Donations@kp.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '700 Lawrence Expy',
+      city: 'Santa Clara',
+      zipCode: '95051',
+      state: 'CA',
+      original: '700 Lawrence Expy Santa Clara, CA 95051',
+      name: 'Kaiser Foundation Hospital - Santa Clara',
+      specialInstructions: 'As many as possible. Yes, find it here  and find the  video tutorial here  https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf, https://www.youtube.com/watch?v=4aMCFnK5bHk&feature=youtu.be. Contact  KPCOVID-19Donations@kp.org   to coordinate delivery. mailto:KPCOVID-19Donations@kp.org. Contact is  KPCOVID-19Donations@kp.org   mailto:KPCOVID-19Donations@kp.org',
+      phone: null,
+      email: 'KPCOVID-19Donations@kp.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1200 El Camino Real',
+      city: 'South San Francisco',
+      zipCode: '94080',
+      state: 'CA',
+      original: '1200 El Camino Real South San Francisco, CA 94080',
+      name: 'Kaiser Foundation Hospital - South San Francisco',
+      specialInstructions: 'As many as possible. Yes, find it here  and find the  video tutorial here  https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf, https://www.youtube.com/watch?v=4aMCFnK5bHk&feature=youtu.be. Contact  KPCOVID-19Donations@kp.org   to coordinate delivery. mailto:KPCOVID-19Donations@kp.org. Contact is  KPCOVID-19Donations@kp.org   mailto:KPCOVID-19Donations@kp.org',
+      phone: null,
+      email: 'KPCOVID-19Donations@kp.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1425 South Main Street',
+      city: 'Walnut Creek',
+      zipCode: '94596',
+      state: 'CA',
+      original: '1425 South Main Street Walnut Creek, CA 94596',
+      name: 'Kaiser Foundation Hospital - Walnut Creek',
+      specialInstructions: 'As many as possible. Yes, find it here  and find the  video tutorial here  https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf, https://www.youtube.com/watch?v=4aMCFnK5bHk&feature=youtu.be. Contact  KPCOVID-19Donations@kp.org   to coordinate delivery. mailto:KPCOVID-19Donations@kp.org. Contact is  KPCOVID-19Donations@kp.org   mailto:KPCOVID-19Donations@kp.org',
+      phone: null,
+      email: 'KPCOVID-19Donations@kp.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '6041 Cadillac Ave',
+      city: 'Los Angeles',
+      zipCode: '90034',
+      state: 'CA',
+      original: '6041 Cadillac Ave, \u000b5 West,\u000bLos Angeles, CA 90034',
+      name: 'Kaiser West LA',
+      specialInstructions: 'As many as possible. Yes, find it here  and find the  video tutorial here  https://about.kaiserpermanente.org/content/dam/internet/kp/comms/import/uploads/2020/03/02_COVID_Mask-Instructions_v9.pdf, https://www.youtube.com/watch?v=4aMCFnK5bHk&feature=youtu.be. Contact  KPCOVID-19Donations@kp.org   to coordinate delivery. mailto:KPCOVID-19Donations@kp.org. Contact is  KPCOVID-19Donations@kp.org   mailto:KPCOVID-19Donations@kp.org',
+      phone: null,
+      email: 'KPCOVID-19Donations@kp.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: 'Foundation Office 216 S. Johnson',
+      city: 'Visalia',
+      zipCode: '93291',
+      state: 'CA',
+      original: 'Foundation Office 216 S. Johnson, Visalia, CA 93291',
+      name: 'Kaweah Delta Medical Center',
+      specialInstructions: 'As many as possible. Yes -  here .https://www.kaweahdelta.org/COVID19/Face-Masks.aspx. Honk from the driveway at 216 S. Johnson, Visalia (the little yellow house) and someone will be out to assist you.. (559) 624-2359',
+      phone: '(559) 624-2359',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: 'Francisquito Ave',
+      city: 'Baldwin Park',
+      zipCode: '14148',
+      state: 'CA',
+      original: '14148 Francisquito Ave, Baldwin Park, CA 91706',
+      name: 'Kindred Hospital - Baldwin Park',
+      specialInstructions: 'As many as possible. Call the number to contact their Purchasing Agent, Rafael; he will coordinate with volunteers  to set up the delivery.. (626) 388-2700',
+      phone: '(626) 388-2700',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1940 El Cajon Blvd',
+      city: 'San Diego',
+      zipCode: '92104',
+      state: 'CA',
+      original: '1940 El Cajon Blvd, San Diego, CA 92104',
+      name: 'Kindred Hospital - San  Diego',
+      specialInstructions: 'As many as possible. Bring donations to the front desk of the main building  Contact: Ask for  Barbara Vargas, Chief Clinical Officer. (619) 543-4500',
+      phone: '(619) 543-4500',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: 'Anderson St',
+      city: 'Loma Linda',
+      zipCode: '11234',
+      state: 'CA',
+      original: '11234 Anderson St,Loma Linda, CA92354',
+      name: 'Loma Linda University Children’s Hospital',
+      specialInstructions: 'As many as possible. None, would like both children and adult sizes. Call 909-558-4444 before drop off, Drop off at the emergency room. 909-558-8216',
+      phone: '909-558-8216',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: 'Anderson St',
+      city: 'Loma Linda',
+      zipCode: '11234',
+      state: 'CA',
+      original: '11234 Anderson St,Loma Linda, CA92354',
+      name: 'Loma Linda University Medical Center',
+      specialInstructions: 'As many as possible. None, would like both children and adult sizes. Call 909-558-4444 before drop off, Drop off at the emergency room. 909-558-4444',
+      phone: '909-558-4444',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '6501 Coyle Ave',
+      city: 'Carmichael',
+      zipCode: '95608',
+      state: 'CA',
+      original: '6501 Coyle Ave, Carmichael, CA 95608',
+      name: 'Mercy San Juan Medical Center',
+      specialInstructions: 'As many as possible. Standby for delivery instructions - we will post them as soon as we hear back. 916-536-3170',
+      phone: '916-536-3170',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Greenbrae',
+      zipCode: '94904',
+      state: 'CA',
+      original: 'Greenbrae, CA',
+      name: 'Marin General Hospital',
+      specialInstructions: 'Drop off at  1300 South Eliseo Suite 101 Greenbae, CA  7am - 3pm. 415-925-7000',
+      phone: '415-925-7000',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Placerville',
+      zipCode: '95667',
+      state: 'CA',
+      original: 'Placerville, CA',
+      name: 'Marshall Medical Center',
+      specialInstructions: 'Not specified. N/A. Marshall Foundation 1124 sherman st.  Placerville, CA. 530-642-9984',
+      phone: '530-642-9984',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1700 Coffee Rd',
+      city: 'Modesto',
+      zipCode: '95355',
+      state: 'CA',
+      original: '1700 Coffee Rd Modesto, CA 95355',
+      name: 'Memorial Medical Center',
+      specialInstructions: 'Not specified. “Materials Management Building” - same address, behind hospital. 209-530-3525',
+      phone: '209-530-3525',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '3865 Jackson St',
+      city: 'Riverside',
+      zipCode: '92503',
+      state: 'CA',
+      original: '3865 Jackson St, Riverside, CA 92503',
+      name: 'Parkview Community Hospital Medical Center',
+      specialInstructions: 'As many as possible. Contact Megan Joyce at 909-615-7702 to arrange delivery. Contact is Megan Joyce at 909-615-7702',
+      phone: '909-615-7702',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1115 S Sunset Ave West',
+      city: 'Covina',
+      zipCode: '91790',
+      state: 'CA',
+      original: '1115 S Sunset Ave West Covina, CA 91790',
+      name: 'Queen of the Valley Hospital',
+      specialInstructions: 'As many as possible. Yes -  here  or  here  or  here .https://www.youtube.com/watch?v=VgHrnS6n4iA&feature=emb_title, https://drive.google.com/a/berkeley.edu/file/d/1jiK8L8xvF5xDoduSbqvUvgom3GMMDE3L/view?usp=sharing, https://drive.google.com/a/berkeley.edu/file/d/1dFBx4beQNYAANP7S73ufQ9FloK01OcmN/view?usp=sharing. Coordinate all donations with Jonathan Lorenzo at the Emanate Health Foundation (626-814-2421). 626-814-2421',
+      phone: '626-814-2421',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: 'Health Center Dr',
+      city: 'Laguna HillsCA 92653',
+      zipCode: '24451',
+      state: null,
+      original: '24451 Health Center Dr, Laguna HillsCA 92653',
+      name: 'Saddleback Memorial Medical Center',
+      specialInstructions: 'As many as possible. Drop off at front entrance of ER - please give to security guard. (949) 837-4500; 1',
+      phone: '(949) 837-4500',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1100 West Stewart Dr.',
+      city: 'Orange',
+      zipCode: '92868',
+      state: 'CA',
+      original: '1100 West Stewart Dr. Orange, CA 92868',
+      name: 'St Joseph Hospital',
+      specialInstructions: 'As many as possible.. Bring donations to the ER and give them to the charge nurse.. 714-771-8113',
+      phone: '714-771-8113',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '6001 E Woodmen Rd.',
+      city: 'Colorado Springs',
+      zipCode: '80923',
+      state: 'CO',
+      original: '6001 E Woodmen Rd.,Colorado Springs, CO80923',
+      name: 'St. Francis Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.sfmc.net/covid19/mask-pattern/. Check here for donation information  https://www.sfmc.net/covid19/mask-pattern/. 573-331-3000',
+      phone: '573-331-3000',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '20 York St',
+      city: 'New Haven',
+      zipCode: '06510',
+      state: 'CT',
+      original: '20 York St, New Haven, CT 06510',
+      name: 'Yale New Haven Hospital',
+      specialInstructions: 'Not specified. Yes, find it here https://www.craftpassion.com/wp-json/mv-create/v1/creations/19/print. Donations accepted Mon- Thurs, 10am-2pm at: Yale New Haven Health System Regional Operations Center 600 Derby Ave. (Route 34) West Haven, CT 06516 See here for more details https://www.ynhhs.org/patient-care/covid-19/support-our-caregivers.aspx. (203) 688-4242',
+      phone: '(203) 688-4242',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '2800 E Main St',
+      city: 'Bridgeport',
+      zipCode: '06606',
+      state: 'CT',
+      original: '2800 E Main St, Bridgeport, CT 06606',
+      name: 'St. Vincent’s Medical Center',
+      specialInstructions: 'Not specified. Yes, find it here https://hartfordhealthcare.org/File%20Library/Health%20and%20Community/PDFs/14196-Sewing-Masks-for-Donations-8-5x11_eng_sd.pdf. Email COVIDDonations@HHCHealth.orgto arrange delivery See here for more details https://hartfordhealthcare.org/health-wellness/coronavirus/ppe-donations. (203) 576-6000',
+      phone: '(203) 576-6000',
+      email: 'COVIDDonations@HHCHealth.orgt'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '80 Seymour St',
+      city: 'Hartford',
+      zipCode: '06106',
+      state: 'CT',
+      original: '80 Seymour St, Hartford, CT 06106',
+      name: 'Hartford Hospital',
+      specialInstructions: 'Not specified. Yes, find it here https://hartfordhealthcare.org/File%20Library/Health%20and%20Community/PDFs/14196-Sewing-Masks-for-Donations-8-5x11_eng_sd.pdf. Email COVIDDonations@HHCHealth.orgto arrange delivery See here for more details https://hartfordhealthcare.org/health-wellness/coronavirus/ppe-donations. (860) 545-5000',
+      phone: '(860) 545-5000',
+      email: 'COVIDDonations@HHCHealth.orgt'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '435 Lewis Ave',
+      city: 'Meriden',
+      zipCode: '06451',
+      state: 'CT',
+      original: '435 Lewis Ave, Meriden, CT 06451',
+      name: 'Midstate Medical Center',
+      specialInstructions: 'Not specified. Yes, find it here https://hartfordhealthcare.org/File%20Library/Health%20and%20Community/PDFs/14196-Sewing-Masks-for-Donations-8-5x11_eng_sd.pdf. Email COVIDDonations@HHCHealth.orgto arrange delivery See here for more details https://hartfordhealthcare.org/health-wellness/coronavirus/ppe-donations. (203) 694-8200',
+      phone: '(203) 694-8200',
+      email: 'COVIDDonations@HHCHealth.orgt'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '100 Grand St',
+      city: 'New Britain',
+      zipCode: '06052',
+      state: 'CT',
+      original: '100 Grand St, New Britain, CT 06052',
+      name: 'The Hospital of Central Connecticut',
+      specialInstructions: 'Not specified. Yes, find it here https://hartfordhealthcare.org/File%20Library/Health%20and%20Community/PDFs/14196-Sewing-Masks-for-Donations-8-5x11_eng_sd.pdf. Email COVIDDonations@HHCHealth.orgto arrange delivery See here for more details https://hartfordhealthcare.org/health-wellness/coronavirus/ppe-donations. (860) 224-5011',
+      phone: '(860) 224-5011',
+      email: 'COVIDDonations@HHCHealth.orgt'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '540 Litchfield St',
+      city: 'Torrington',
+      zipCode: '06790',
+      state: 'CT',
+      original: '540 Litchfield St, Torrington, CT 06790',
+      name: 'Charlotte Hungerford Hospital',
+      specialInstructions: 'Not specified. Yes, find it here https://hartfordhealthcare.org/File%20Library/Health%20and%20Community/PDFs/14196-Sewing-Masks-for-Donations-8-5x11_eng_sd.pdf. Email COVIDDonations@HHCHealth.orgto arrange delivery See here for more details https://hartfordhealthcare.org/health-wellness/coronavirus/ppe-donations. (860) 496-6666',
+      phone: '(860) 496-6666',
+      email: 'COVIDDonations@HHCHealth.orgt'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '320 Pomfret St',
+      city: 'Putnam',
+      zipCode: '06260',
+      state: 'CT',
+      original: '320 Pomfret St, Putnam, CT 06260',
+      name: 'Day Kimball Hospital',
+      specialInstructions: 'Not specified. Yes, find it here https://www.daykimball.org/_resources/common/userfiles/file/Resources/2020_COVID-19_Face%20Mask%20Sewing%20Instructions%20Flyer.pdf. Email  DonatePPE@daykimball.org  to coordinate drop off See here for more details mailto:DonatePPE@daykimball.org, https://www.daykimball.org/ppe-donations/default.aspx. (860) 928-6541',
+      phone: '(860) 928-6541',
+      email: 'DonatePPE@daykimball.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '28 Crescent St',
+      city: 'Middletown',
+      zipCode: '06457',
+      state: 'CT',
+      original: '28 Crescent St, Middletown, CT 06457',
+      name: 'Middlesex Hospital',
+      specialInstructions: 'Not specified. Yes, find it here https://middlesexhealth.org/files/dmHTMLFile/covid-19_directions-for-sewing-masks_final2.pdf. Call 860-358-6200 or email info@midhosp.org. Must drop off masks in sealable plastic bags (can be multiple masks per bag). (860) 358-6000',
+      phone: '860-358-6200',
+      email: 'info@midhosp.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '114 Woodland St',
+      city: 'Hartford',
+      zipCode: '06105',
+      state: 'CT',
+      original: '114 Woodland St, Hartford, CT 06105',
+      name: 'St. Francis Hospital',
+      specialInstructions: 'Not specified. Yes, Instructions here https://www.trinityhealthofne.org/body.cfm?id=4371&fr=true. Email Mary Liebig at MLiebig@TrinityHealthofNE.org. (860) 714-4000',
+      phone: '(860) 714-4000',
+      email: 'MLiebig@TrinityHealthofNE.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '201 Chestnut Hill Rd',
+      city: 'Stafford Springs',
+      zipCode: '06076',
+      state: 'CT',
+      original: '201 Chestnut Hill Rd, Stafford Springs, CT 06076',
+      name: 'Johnson Memorial Hospital',
+      specialInstructions: 'Not specified. Yes, Instructions here https://www.trinityhealthofne.org/body.cfm?id=4371&fr=true. Email Nancy Reilly at Nancy.Reilly@TrinityHealthofNE.org. (860) 684-4251',
+      phone: '(860) 684-4251',
+      email: 'Nancy.Reilly@TrinityHealthofNE.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '56 Franklin St',
+      city: 'Waterbury',
+      zipCode: '06706',
+      state: 'CT',
+      original: '56 Franklin St, Waterbury, CT 06706',
+      name: 'St. Mary’s Hospital',
+      specialInstructions: 'Not specified. Yes, Instructions here https://www.trinityhealthofne.org/body.cfm?id=4371&fr=true. Email Carmelina Calabrese Carmelina.calabrese@TrinityHealthofNe.org. (203) 709-6000',
+      phone: '(203) 709-6000',
+      email: 'Carmelina.calabrese@TrinityHealthofNe.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Sarasota',
+      zipCode: '34231',
+      state: 'FL',
+      original: 'Sarasota, FL',
+      name: 'Family First Homecare',
+      specialInstructions: '250 adult masks  75 child masks (ties not elastic). None specified but they would like child-sized masks with ties (not elastic). Drop off M-F between 8:30 AM and 5 PM at  Family First Homecare 5589 Marquesas Circle #202  Sarasota, FL 34233. Contact is Beth 941-444-2432 EXT 214',
+      phone: '941-444-2432',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '350 7th St N',
+      city: 'Naples',
+      zipCode: '34102',
+      state: 'FL',
+      original: '350 7th St N,Naples, FL 34102',
+      name: 'Naples Community Hospital',
+      specialInstructions: 'As many as possible. Drop them off at security at the ER entrance on 4 th  Ave. (239) 624-5000',
+      phone: '(239) 624-5000',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '6101 Pine Ridge Rd',
+      city: 'Naples',
+      zipCode: '34119',
+      state: 'FL',
+      original: '6101 Pine Ridge Rd, Naples, FL 34119',
+      name: 'Physicians Regional Medical Center-- Pine Ridge',
+      specialInstructions: 'As many as possible. Call 239-348-4000 and ask for Candace, the Nursing supervisor.  She will come out to get them from you.. (239) 348-4000',
+      phone: '239-348-4000',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Lawrenceville',
+      zipCode: '30043',
+      state: 'GA',
+      original: 'Lawrenceville, GA',
+      name: 'Northside Gwinnett Hospital',
+      specialInstructions: 'As many as possible. Yes, find instructions here  and  the pattern here  https://mcusercontent.com/a6a2b46ef8363e3b16dc0cbf0/files/9c6509a7-d95c-4732-9103-5a1cd8dc0757/Northside_Gwinnett_Mask_Instructions_for_Community.pdf, https://mcusercontent.com/a6a2b46ef8363e3b16dc0cbf0/files/a22023b3-73bb-4206-99af-884cc65a166f/Northside_Gwinnett_Mask_Template.pdf. Deliver to  Katrina Stone Northside Gwinnett Hospital 1000 Medical Center Boulevard, Building 100, Suite 115 Lawrenceville, GA 30046  Note: Please do not go to the main building, visitors are restricted. Contact is Katrina Stone 770-722-2629, katrina.stone@northside.com',
+      phone: '770-722-2629',
+      email: 'katrina.stone@northside.com'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '1108 North Monroe St',
+      city: 'Albany',
+      zipCode: '31701',
+      state: 'GA',
+      original: '1108 North Monroe St,Albany, GA 31701',
+      name: 'Phoebe Putney Memorial Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here http://phoebehealth.com/patients-and-visitors/coronavirus/mask-production. Can be mailed to  Phoebe Putney Memorial Hospital  ℅ Supply Chain  1108 North Monroe St.  Albany, GA 31701',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '280 Home Olu Pl',
+      city: 'Kaunakakai',
+      zipCode: '96748',
+      state: 'HI',
+      original: '280 Home Olu Pl,Kaunakakai, HI96748',
+      name: 'Molokai General Hospital',
+      specialInstructions: 'As many as possible. Business hours drop off at administration building, after hours drop off at emergency room. Business hours contact is Jan Kalanihuia, after hours contact is ER Registration.  Both can be reached at  808-553-5331',
+      phone: '808-553-5331',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1301 Punchbowl St',
+      city: 'Honolulu',
+      zipCode: '96813',
+      state: 'HI',
+      original: '1301 Punchbowl St,Honolulu, HI96813',
+      name: 'The Queen’s Medical Center',
+      specialInstructions: 'As many as possible. Drop off in the hospital lobby valet area',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '91-2141 Fort Weaver Rd',
+      city: 'Ewa Beach',
+      zipCode: '96706',
+      state: 'HI',
+      original: '91-2141 Fort Weaver Rd, Ewa Beach, HI96706',
+      name: 'The Queen’s Medical Center - West O’ahu',
+      specialInstructions: 'As many as possible. Drop off between 8 AM and 2 PM at the receiving loading dock (mauka of the hospital)',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Kamuela',
+      zipCode: '96743',
+      state: 'HI',
+      original: 'Kamuela, HI',
+      name: 'Queen’s North Hawaii Community Hospital',
+      specialInstructions: 'As many as possible. Contact Julia Ramos at  808-881-4420. Contact is Julia Ramos 808-881-4420',
+      phone: '808-881-4420',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '700 Main St',
+      city: 'Moscow',
+      zipCode: '83843',
+      state: 'ID',
+      original: '700 Main St, Moscow, ID 83843',
+      name: 'Gritman Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://gritman.org/community-sews-seeds-of-love-for-frontline-health-care-workers/. You can drop them off with the greeter at any entrance or call and ask for volunteer coordinator Kim Malm for pick up. 208-882-4511',
+      phone: '208-882-4511',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Chicago',
+      zipCode: '60601',
+      state: 'IL',
+      original: 'Chicago, IL',
+      name: 'The University of Chicago Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.joann.com/make-to-give-response/. Preferred delivery method is mail to:  Knapp Center for Biomedical Discovery ATTN: DAN TIBERI - PPE DONATION  900 East 57th St,  Chicago, IL 60637  OR drop off M -F 8 AM - 4 PM at:  Knapp - KSBD  900 E 57th St, Hyde Park  East Loading Dock. Contact  covid-donations@uchospitals.edu',
+      phone: null,
+      email: 'covid-donations@uchospitals.edu'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '720 Eskenazi Ave.',
+      city: 'Indianapolis',
+      zipCode: '46202',
+      state: 'IN',
+      original: '720 Eskenazi Ave. Indianapolis, IN 46202',
+      name: 'Eskenazi Health',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.eskenazihealth.edu/news/how-to-donate-face-masks-and-other-supplies-to-eskenazi-health. If less than 500 items: d rop off at the entrance to Sidney & Lois Eskenazi Hospital during the hours of 10 a.m. – 5:30 p.m - Sun to Saturday. Please include quantity/description when possible',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: 'B N Meridian St',
+      city: 'Carmel',
+      zipCode: '12188',
+      state: 'IN',
+      original: '12188B N Meridian St,Carmel, IN 46032',
+      name: 'Franciscan Health Carmel',
+      specialInstructions: 'As many as possible. None, but want adult sizes. Contact Debi Marshall, Manager of Volunteer Services at 317-528-5194 to arrange drop-off. Contact is Debi Marshall, Manager of Volunteer Services at 317-528-5194',
+      phone: '317-528-5194',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1201 Hadley Rd',
+      city: 'Mooresville',
+      zipCode: '46158',
+      state: 'IN',
+      original: '1201 Hadley Rd,Mooresville, IN46158',
+      name: 'Franciscan Health Mooresville',
+      specialInstructions: 'As many as possible. None, but want adult sizes. Contact Debi Marshall, Manager of Volunteer Services at 317-528-5194 to arrange drop-off. Contact is Debi Marshall, Manager of Volunteer Services at 317-528-5194',
+      phone: '317-528-5194',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Michigan City',
+      zipCode: '46360',
+      state: 'IN',
+      original: 'Michigan City, IN',
+      name: 'Fanciscan Health Michigan City',
+      specialInstructions: 'As many as possible. Yes, find it here https://ourmc.org/news/2020/3/23/needed-sew-masks-for-franciscan-health-michigan-city?fbclid=IwAR2F-c3fLCfNL2EQ4kEdg-_ZV6FeEuPcEclCe55xf2K7fjNccX3aKNrN0Zo. Contact Sister M. Petra Nielsen at 219-877-1447. Contact is Sister M. Petra Nielsen 219-877-1447',
+      phone: '219-877-1447',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: 'Indiana University Health West Hospital()',
+      city: 'Avon',
+      zipCode: '46123',
+      state: 'IN',
+      original: 'Indiana University Health West Hospital(Avon, IN)',
+      name: '',
+      specialInstructions: 'As many as possible. Centralized website https://iuhealth.org/news-hub/process-established-for-donations-and-new-suppliers',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: 'Indiana University Health North Hospital()',
+      city: 'Carmel',
+      zipCode: '46032',
+      state: 'IN',
+      original: 'Indiana University Health North Hospital(Carmel, IN)',
+      name: '',
+      specialInstructions: 'As many as possible. Centralized website https://iuhealth.org/news-hub/process-established-for-donations-and-new-suppliers',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: 'Indiana University Health Blackford Hospital ()',
+      city: 'Hartford City',
+      zipCode: '47348',
+      state: 'IN',
+      original: 'Indiana University Health Blackford Hospital (Hartford City, IN)',
+      name: '',
+      specialInstructions: 'As many as possible. Centralized website https://iuhealth.org/news-hub/process-established-for-donations-and-new-suppliers',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: 'Indiana University Health Arnett Hospital ()',
+      city: 'Lafayette',
+      zipCode: '47901',
+      state: 'IN',
+      original: 'Indiana University Health Arnett Hospital (Lafayette, IN)',
+      name: '',
+      specialInstructions: 'As many as possible. Centralized website https://iuhealth.org/news-hub/process-established-for-donations-and-new-suppliers',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: 'Indiana University Health White Memorial Hospital ()',
+      city: 'Monticello',
+      zipCode: '47960',
+      state: 'IN',
+      original: 'Indiana University Health White Memorial Hospital (Monticello, IN)',
+      name: '',
+      specialInstructions: 'As many as possible. Centralized website https://iuhealth.org/news-hub/process-established-for-donations-and-new-suppliers',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: 'Indiana University Health Ball Memorial Hospital ()',
+      city: 'Muncie',
+      zipCode: '47302',
+      state: 'IN',
+      original: 'Indiana University Health Ball Memorial Hospital (Muncie, IN)',
+      name: '',
+      specialInstructions: 'As many as possible. Centralized website https://iuhealth.org/news-hub/process-established-for-donations-and-new-suppliers',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '7 Elliot St.',
+      city: 'Council Bluffs',
+      zipCode: '51503',
+      state: 'IA',
+      original: '7 Elliot St.Council Bluffs, IA51503',
+      name: 'Bethany Lutheran Health Services',
+      specialInstructions: 'As many as possible. Drop off at the rear door of the  building or mail to  Kaily Stanley 7 Elliot St.,  Council Bluffs, IA 51503. Contact is Kaily Stanley, Activity Director/Volunteer Coordinator 712-328-9500 ext 230',
+      phone: '712-328-9500',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1801 Hickman Rd',
+      city: 'Des Moines',
+      zipCode: '50314',
+      state: 'IA',
+      original: '1801 Hickman Rd, Des Moines, IA 50314',
+      name: 'Broadlawns Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.youtube.com/watch?v=ZnVk12sFRkY. Call or email ahead of time to arrange delivery to K ari Ford ( kford@boradlawns.org ) or Karen Kordick-Smith ( ksmith@broadlawns.org ). 515-282-5882',
+      phone: '515-282-5882',
+      email: 'kford@boradlawns.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '701 10th St. SE',
+      city: 'Cedar Rapids',
+      zipCode: '52403',
+      state: 'IA',
+      original: '701 10th St. SE,Cedar Rapids, IA52403',
+      name: 'MercyOne',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.mercyone.org/northeastiowa/about-us/news-releases/help-sew-masks-for-mercyone. Drop off M-F between 8 AM and 5 PM in a collection box at Mercy’s 10th St. entrance.',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '2452 North Broadway',
+      city: 'Council Bluffs',
+      zipCode: '51503',
+      state: 'IA',
+      original: '2452 North Broadway,Council Bluffs, IA51503',
+      name: 'Midlands Living Center',
+      specialInstructions: 'As many as possible (80 residents / 150 employees). Deliver to the front door, the front office staff will accept them. Contact is Cynthia Daniels 712-323-7135',
+      phone: '712-323-7135',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Manchester',
+      zipCode: '52057',
+      state: 'IA',
+      original: 'Manchester, IA 52057',
+      name: 'Regional Medical Center',
+      specialInstructions: 'As many as possible. Drop off at - Manchester Area Chamber of Commerce  200 E Main St., Manchester, IA 52057  OR mail to - ATTN: Jody Hatfield Regional Medical Center 709 West main Street PO Box 359 Manchester, IA 52057. Contact is Jody Hatfield 563-927-7581',
+      phone: '563-927-7581',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '855 A Ave. NE',
+      city: 'Cedar Rapids',
+      zipCode: '52402',
+      state: 'IA',
+      original: '855 A Ave. NE,Suite 105,Cedar Rapids, IA 52402',
+      name: 'UnityPoint - St. Luke’s Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.youtube.com/watch?v=ZnVk12sFRkY. Drop off M-F during normal business hours or weekends 9 AM - 11 AM in the donation box at UnityPoint Health - St. Luke’s Foundation 855 A Ave. NE,  Suite 105,  Cedar Rapids, IA. 319-369-7716',
+      phone: '319-369-7716',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '600 Medical Center Dr',
+      city: 'Newton',
+      zipCode: '67114',
+      state: 'KS',
+      original: '600 Medical Center Dr,Newton, KS67114',
+      name: 'Newton Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here http://courierpressblogs.com/pdf/howtomakeafacemask.pdf. Call Lori Janzing, Director of Materials Management at 316-804-6220 to coordinate drop-off. 316-804-6220',
+      phone: '316-804-6220',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '550 N Hillside St',
+      city: 'Wichita',
+      zipCode: '67202',
+      state: 'KS',
+      original: '550 N Hillside St,Wichita, KS',
+      name: 'Wesley Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here http://courierpressblogs.com/pdf/howtomakeafacemask.pdf. Call 316-619-7895 to coordinate drop-off. 316-619-7895',
+      phone: '316-619-7895',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '1201 Pleasant Valley Rd',
+      city: 'Owensboro',
+      zipCode: '42303',
+      state: 'KY',
+      original: '1201 Pleasant Valley Rd,Owensboro, KY42303',
+      name: 'Owensboro Health Regional Hospital',
+      specialInstructions: 'As many as possible. Craft Passion  or  The Stitching Scientist pattern ,  SEE THIS LINK FOR FABRIC, LINING, & LAUNDERING INSTRUCTIONS https://www.craftpassion.com/face-mask-sewing-pattern/, https://thestitchingscientist.com/2020/03/how-to-sew-a-face-mask.html, https://www.owensborohealth.org/news-events/news-media/2020/fabric-surgical-masks-information/. Drop-off at the hospital in the marked bins near the loading dock OR at Healthpark Owensboro at  1006 Ford Ave,  Owensboro, KY 42301. Email  Debbie.Johnson@OwensboroHealth.org',
+      phone: null,
+      email: 'Debbie.Johnson@OwensboroHealth.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Baton Rouge',
+      zipCode: '70801',
+      state: 'LA',
+      original: 'Baton Rouge, LA',
+      name: 'Baton Rouge General',
+      specialInstructions: 'As many as possible. Yes, find it here  https://www.craftpassion.com/wp-json/mv-create/v1/creations/19/print?fbclid=IwAR0VwtcrJSWxPHsHLkEakskw-_kPk_P-YFN6cvHVK1Xv-Sc1rwbWhaWDlcw. Will be announced soon, check their Facebook page for most recent info  https://www.facebook.com/LafayetteGeneral/?tn-str=k*F. 337-289-7991',
+      phone: '337-289-7991',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '4200 Houma Blvd',
+      city: 'Metairie',
+      zipCode: '70006',
+      state: 'LA',
+      original: '4200 Houma Blvd, Metairie, LA 70006',
+      name: 'East Jefferson Medical Center',
+      specialInstructions: 'As many as possible *Also in need of wipeable gowns with long sleeves and buttons. No. Bring donations to front desk and someone will come pick them up.. Hospital website will soon have a contact number for mask drop off. Until then, contact infectious disease dept at 504-503-4228',
+      phone: '504-503-4228',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1214 Coolidge St',
+      city: 'Lafayette',
+      zipCode: '70503',
+      state: 'LA',
+      original: '1214 Coolidge St, Lafayette, LA70503',
+      name: 'Lafayette General Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here  https://www.craftpassion.com/wp-json/mv-create/v1/creations/19/print?fbclid=IwAR0VwtcrJSWxPHsHLkEakskw-_kPk_P-YFN6cvHVK1Xv-Sc1rwbWhaWDlcw. Will be announced soon, check their Facebook page for most recent info  https://www.facebook.com/LafayetteGeneral/?tn-str=k*F. 337-289-7991',
+      phone: '337-289-7991',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1111 Gause Blvd',
+      city: 'Slidell',
+      zipCode: '70458',
+      state: 'LA',
+      original: '1111 Gause Blvd,Slidell, LA 70458',
+      name: 'Slidell Memorial Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here  https://www.craftpassion.com/wp-json/mv-create/v1/creations/19/print. Call 985-280-8689 and schedule a time for someone to meet you.  Drop-off location is 1111 Gause Blvd (away from the main hospital). 985-280-8689',
+      phone: '985-280-8689',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '1415 Tulane Ave.',
+      city: 'New Orleans',
+      zipCode: '70112',
+      state: 'LA',
+      original: '1415 Tulane Ave. New Orleans, LA 70112',
+      name: 'Tulane Medical Center',
+      specialInstructions: 'As many as possible. No. Bring donations to hospital and call charge nurse at 504-988-5711, and he/she will come pick them up.. Contact charge nurse in ER at: 504-988-5711',
+      phone: '504-988-5711',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '2700 Napoleon Ave.',
+      city: 'New Orleans',
+      zipCode: '70115',
+      state: 'LA',
+      original: '2700 Napoleon Ave.New Orleans, LA 70115',
+      name: 'Ochsner Baptist',
+      specialInstructions: 'As many as possible. No. At the main entrance, tell security that you have donations for the health care workers, and he/she will call the House Supervisor who will come pick them up. 504-899-9311 Ask for House Supervisor',
+      phone: '504-899-9311',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Lafayette',
+      zipCode: '70501',
+      state: 'LA',
+      original: 'Lafayette, LA',
+      name: 'Our Lady of Lourdes Medical Center',
+      specialInstructions: 'Contact using this form for more info https://lourdesrmc.com/ways-to-give/covid-19-community-donations. Contact using this form for more info https://lourdesrmc.com/ways-to-give/covid-19-community-donations. Contact using this form for more info . They will respond within 24 hours. https://lourdesrmc.com/ways-to-give/covid-19-community-donations. Contact using this form for more info https://lourdesrmc.com/ways-to-give/covid-19-community-donations',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1101 Medical Center Blvd',
+      city: 'Marrero',
+      zipCode: '70072',
+      state: 'LA',
+      original: '1101 Medical Center Blvd, Marrero, LA 70072',
+      name: 'West Jefferson Medical Center',
+      specialInstructions: 'As many as possible. No. At the front desk of the hospital, ask them to tell the House Supervisor that you have mask donations, and they will come pick up the donations from the front desk.. Contact House Supervisor: 504-349-6659  Main Hospital Number: 504-347-5511',
+      phone: '504-349-6659',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1493 Cambridge St',
+      city: 'Cambridge',
+      zipCode: '02139',
+      state: 'MA',
+      original: '1493 Cambridge St,Cambridge, MA0213933 Tower St, Somerville, MA02143103 Garland St,Everett, MA02149',
+      name: 'Cambridge Health Alliance',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.challiance.org/about/newsroom/personal_protective_equipment_ppe_homemade_donatio_1180?fbclid=IwAR2FhL2u1AfgiffmkN2mwh7SY9AXEkAjEYEa4j9cMo4vMhMinYTQcsL6e0I. Drop them off at the main entrance of Cambridge, Somerville, or Everett location with Public Safety  OR contact  chafoundation@challiance.org  for pickup info mailto:chafoundation@challiance.org. Contact  chafoundation@challiance.org  mailto:chafoundation@challiance.org',
+      phone: null,
+      email: 'chafoundation@challiance.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '30 Locust St',
+      city: 'Northampton',
+      zipCode: '01060',
+      state: 'MA',
+      original: '30 Locust St,Northampton, MA01060',
+      name: 'Cooley Dickinson Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.cooleydickinson.org/home/coronavirus-resources/donations/. Drop off at hospital’s north entrance, M-F between 8 AM and 4:30 PM',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Lowell',
+      zipCode: '01850',
+      state: 'MA',
+      original: 'Lowell, MA',
+      name: 'Lowell General Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.lowellgeneral.org/news-and-media/news/calling-our-crafty-community?fbclid=IwAR3RHIhAu-VIrI6s6c8wqNWNljik6yNfJKPcWdnEej2iGhaNKgRVwi-PSsQ. Drop off at:  Anton’s Cleaners Stadium Plaza  10 Main St.  Tewksbury, MA 01876. Please no phone calls!  Contact philanthropy@lowellgeneral.org',
+      phone: null,
+      email: 'philanthropy@lowellgeneral.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '888 Main St',
+      city: 'Wakefield',
+      zipCode: '01880',
+      state: 'MA',
+      original: '888 Main St, Wakefield, MA01880',
+      name: 'MelroseWakefield Hospital',
+      specialInstructions: 'As many as possible. Yes, find links to 3 acceptable patterns here https://www.scribd.com/document/452572663/Calling-on-Our-Community#fullscreen&from_embed. Drop off to bins at either:  MelroseWakefield Medical Building  888 Main St,  Wakefield, MA 01  Melrose Laundromat 412 Main St,  Melrose, MA. Please do not call!  Direct questions to:  MasksforMelroseHosp@melrosewakefield.org',
+      phone: null,
+      email: 'MasksforMelroseHosp@melrosewakefield.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Kalamazoo',
+      zipCode: '49001',
+      state: 'MI',
+      original: 'Kalamazoo, MI',
+      name: 'Bronson Methodist Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.bronsonhealth.com/app/files/public/8380/Kalamazoo-County-Face-Mask-Pattern.pdf. Collecting donations M-F 1-4pm at:  Bronson FastCare® 6220 W. Main St., Kalamazoo, MI 49009. inkinddonations@bronsonhg.org',
+      phone: null,
+      email: 'inkinddonations@bronsonhg.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Battle Creek',
+      zipCode: '49014',
+      state: 'MI',
+      original: 'Battle Creek, MI',
+      name: 'Bronson Battle Creek Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.bronsonhealth.com/app/files/public/8380/Kalamazoo-County-Face-Mask-Pattern.pdf. Collecting donations M-F 1-4pm at:   Bronson Urology Specialists 4441 Capital Avenue Southwest Battle Creek, MI 49015. inkinddonations@bronsonhg.org',
+      phone: null,
+      email: 'inkinddonations@bronsonhg.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Paw Paw',
+      zipCode: '49079',
+      state: 'MI',
+      original: 'Paw Paw, MI',
+      name: 'Bronson LakeView Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.bronsonhealth.com/app/files/public/8380/Kalamazoo-County-Face-Mask-Pattern.pdf. Collecting donations M-F 1-4pm at:  Bronson LakeView Outpatient Center  451 Health Parkway Paw Paw, MI 49079. inkinddonations@bronsonhg.org',
+      phone: null,
+      email: 'inkinddonations@bronsonhg.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'South Haven',
+      zipCode: '49090',
+      state: 'MI',
+      original: 'South Haven, MI',
+      name: 'Bronson South Haven Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.bronsonhealth.com/app/files/public/8380/Kalamazoo-County-Face-Mask-Pattern.pdf. Collecting donations M-F 1-4pm at:  Bronson Family Medicine 930 Blue Star Highway South Haven, MI 49090. inkinddonations@bronsonhg.org',
+      phone: null,
+      email: 'inkinddonations@bronsonhg.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '700 Cooper',
+      city: 'Saginaw',
+      zipCode: '48602',
+      state: 'MI',
+      original: '700 Cooper,Saginaw, MI 48602',
+      name: 'Covenant Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.covenanthealthcare.com/Uploads/Public/Documents/Workfiles/Volunteers/Face-Mask-Guide.pdf. Drop off at the front desk or the outdoor drop-off Covenant vehicle from 9 Am to 3 PM at 5400 Mackinaw Rd, Saginaw. Email Tina Swanton at  t.swanton@mihia.org',
+      phone: null,
+      email: 't.swanton@mihia.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '311 E Alcott St',
+      city: 'Kalamazoo',
+      zipCode: '49001',
+      state: 'MI',
+      original: '311 E Alcott St,Kalamazoo, MI 49001',
+      name: 'Kalamazoo County Health & Community  Services Department',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.phoebehealth.com/patients-and-visitors/coronavirus/mask-production. Deliver to front desk M-F 9 AM to 4 PM. 269-373-5200',
+      phone: '269-373-5200',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Bay City',
+      zipCode: '48706',
+      state: 'MI',
+      original: 'Bay City, MI',
+      name: 'McLaren Bay Region',
+      specialInstructions: 'As many as possible. Drop off between 8 AM and 4:30 PM at 503 Mulholland St, Bay City',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Flint',
+      zipCode: '48502',
+      state: 'MI',
+      original: 'Flint, MI',
+      name: 'McLaren Flint',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.mclaren.org/Uploads/Public/Documents/corporate/washable_face_mask_pattern.pdf. Drop off  M - F 10 Am - 4 PM  S 10 Am - 2 PM   At the Hospitality House at McLaren - G-3170 Beecher Road, Flint',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Petoskey',
+      zipCode: '49770',
+      state: 'MI',
+      original: 'Petoskey, MI',
+      name: 'McLaren Northern Michigan',
+      specialInstructions: 'As many as possible. Yes, find it here , ties preferred to elastichttps://www.makevictorymasks.org/?fbclid=IwAR0A5j9msZcrcl2zEw8GCE9zuD_yagFT56HcjnXVYvWEsi8mt7Xc_o0kcCk. Call the Foundation at 231-487-3500 to arrange the drop off. 231-487-3500',
+      phone: '231-487-3500',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '826 W. King',
+      city: 'Owosso',
+      zipCode: '48867',
+      state: 'MI',
+      original: '826 W. King,Owosso, MI 48867',
+      name: 'Memorial Healthcare of Owosso',
+      specialInstructions: 'As many as possible. Call Memorial at 989-723-5211 to arrange drop off or Becky Dahlke at 989-729-4856. 989-723-5211',
+      phone: '989-723-5211',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Midland',
+      zipCode: '48640',
+      state: 'MI',
+      original: 'Midland, MI',
+      name: 'MidMichigan Medical Center - Midland',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.midmichigan.org/app/files/public/33710/Fask-Mask-Guide.pdf. Contact  COVID19.SUPPLIES@midmichigan.org  for donation information  mailto:COVID19.SUPPLIES@midmichigan.org. Contact  COVID19.SUPPLIES@midmichigan.org',
+      phone: null,
+      email: 'COVID19.SUPPLIES@midmichigan.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Kansas City',
+      zipCode: '64101',
+      state: 'MO',
+      original: 'Kansas City, MO',
+      name: 'St. Luke’s Hospital of Kansas City',
+      specialInstructions: 'Yes, find it here https://www.saintlukeskc.org/sites/default/files/2020-03/Alternative_Procedural_Mask_Assembly_Directions_Branded_FINAL.pdf. Contact 816-932-2252 or  slhf@saintlukeskc.org  to arrange for drop-off of their preferred fabric.  They will also arrange to pick up completed masks.mailto:slhf@saintlukeskc.org. 816-932-2252 or  slhf@saintlukeskc.org',
+      phone: '816-932-2252',
+      email: 'slhf@saintlukeskc.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '800 E 28th St',
+      city: 'Minneapolis',
+      zipCode: '55407',
+      state: 'MN',
+      original: '800 E 28th St, Minneapolis, MN55407',
+      name: 'Abbott Northwestern Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.sewgoodgoods.org/face-mask-covid-19. Deliver to 800 E 28th St, Minneapolis, MN  55407',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '2805 Campus Dr',
+      city: 'Plymouth MN\u000b',
+      zipCode: '55441',
+      state: null,
+      original: '2805 Campus Dr,Plymouth, MN\u000b55441',
+      name: 'Abbott Northwestern Hospital - West Health',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.sewgoodgoods.org/face-mask-covid-19. Deliver to 2805 Campus Dr,  Plymouth, MN\u000b55441',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '270 Main St. N. #300',
+      city: 'Stillwater',
+      zipCode: '55082',
+      state: 'MN',
+      original: '270 Main St. N. #300 Stillwater, MN 55082',
+      name: 'Bluestone Physician Services',
+      specialInstructions: '200-300. Deliver to Bluestone Physician Services  270 Main St. N. #300 Stillwater, MN 55082. Contact is Nanc MacLeslie 651-342-1428',
+      phone: '651-342-1428',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '303 Catlin St',
+      city: 'Catlin',
+      zipCode: '55313',
+      state: 'MN',
+      original: '303 Catlin St,Catlin, MN 55313',
+      name: 'Buffalo Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.sewgoodgoods.org/face-mask-covid-19. Deliver to 303 Catlin St,  Catlin, MN 55313',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '701 S Dellwood St',
+      city: 'Cambridge',
+      zipCode: '55088',
+      state: 'MN',
+      original: '701 S Dellwood St, Cambridge, MN 55088',
+      name: 'Cambridge Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.sewgoodgoods.org/face-mask-covid-19. Deliver to 701 S Dellwood St, Cambridge, MN 55088',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '3915 Golden Valley Rd',
+      city: 'Golden Valley',
+      zipCode: '55422',
+      state: 'MN',
+      original: '3915 Golden Valley Rd, Golden Valley, MN 55422',
+      name: 'Courage Kenny Rehabilitation, Golden Valley',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.sewgoodgoods.org/face-mask-covid-19. Deliver to 3915 Golden Valley Rd, Golden Valley, MN 55422',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '200 State Ave',
+      city: 'Faribault',
+      zipCode: '55021',
+      state: 'MN',
+      original: '200 State Ave, Faribault, MN 55021',
+      name: 'District One Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.sewgoodgoods.org/face-mask-covid-19. Deliver to 200 State Ave, Faribault, MN 55021',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '4050 Coon Rapids Blvd',
+      city: 'Coon Rapids',
+      zipCode: '55433',
+      state: 'MN',
+      original: '4050 Coon Rapids Blvd, Coon Rapids, MN 55433',
+      name: 'Mercy Hospital - Mercy Campus',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.sewgoodgoods.org/face-mask-covid-19. Deliver to 4050 Coon Rapids Blvd, Coon Rapids, MN 55433',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '550 Osborne Rd NE',
+      city: 'Fridley',
+      zipCode: '55432',
+      state: 'MN',
+      original: '550 Osborne Rd NE,Fridley, MN55432',
+      name: 'Mercy Hospital - Unity Campus',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.sewgoodgoods.org/face-mask-covid-19. Deliver to 550 Osborne Rd NE, Fridley, MN  55432',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1324 5th St N',
+      city: 'New Ulm',
+      zipCode: '56073',
+      state: 'MN',
+      original: '1324 5th St N,New Ulm, MN 56073',
+      name: 'New Ulm Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.sewgoodgoods.org/face-mask-covid-19. Deliver to 1324 5th St N,  New Ulm, MN 56073',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '1650 4th St SE',
+      city: 'Rochester',
+      zipCode: '55904',
+      state: 'MN',
+      original: '1650 4th St SE,Rochester, MN 55904',
+      name: 'Olmstead Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.youtube.com/watch?v=8Hon3XuHKv0&t=&fbclid=IwAR2OYzKw9gXS7AZ_Ik_CJ8VQk3WiCk31H67VIYURfc_lLv0O6juEh43glu4. Drop-off at the Welcome Desk at the main entrance of OMC hospital. Contact is Kelly Owens 507-292-7210',
+      phone: '507-292-7210',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '2250 NW 26th St',
+      city: 'Owatonna',
+      zipCode: '55060',
+      state: 'MN',
+      original: '2250 NW 26th St,Owatonna, MN 55060',
+      name: 'Owatonna Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.sewgoodgoods.org/face-mask-covid-19. Deliver to 2250 NW 26th St,  Owatonna, MN 55060',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1175 Nininger Rd',
+      city: 'Hastings',
+      zipCode: '55033',
+      state: 'MN',
+      original: '1175 Nininger Rd,Hastings, MN55033',
+      name: 'Regina Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.sewgoodgoods.org/face-mask-covid-19. Deliver to 1175 Nininger Rd,  Hastings, MN  55033',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1455 St. Francis Ave',
+      city: 'Shakopee',
+      zipCode: '55379',
+      state: 'MN',
+      original: '1455 St. Francis Ave,Shakopee, MN 55379',
+      name: 'St. Francis Regional Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.sewgoodgoods.org/face-mask-covid-19. Deliver to 1455 St. Francis Ave, Shakopee, MN 55379',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '333 Smith Ave N',
+      city: 'St. Paul',
+      zipCode: '55102',
+      state: 'MN',
+      original: '333 Smith Ave N,St. Paul, MN 55102',
+      name: 'United Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.sewgoodgoods.org/face-mask-covid-19. Deliver to 333 Smith Ave N,  St. Paul, MN 55102',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '2824 N. 66 thAve. Omaha',
+      city: 'Ne',
+      zipCode: '68104',
+      state: null,
+      original: '2824 N. 66 thAve. Omaha, Ne 68104',
+      name: 'Maple Crest Care Center',
+      specialInstructions: 'As many as possible. Ring the doorbell at the front of the facility and someone from the front desk will come greet you.. Contacts are DON Naomi or RN Holly Norris 402-551-2110',
+      phone: '402-551-2110',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '2375 E Prater Way',
+      city: 'Sparks',
+      zipCode: '89434',
+      state: 'NV',
+      original: '2375 E Prater Way,Sparks, NV 89434',
+      name: 'Northern Nevada Medical Center',
+      specialInstructions: 'As many as possible. None, be sure to use 100% cotton and materials and ties that can withstand washing.. Take deliveries to the HR department. 775-331-7000',
+      phone: '775-331-7000',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Yerington',
+      zipCode: '89447',
+      state: 'NV',
+      original: 'Yerington, NV',
+      name: 'South Lyon Medical Center',
+      specialInstructions: 'As many as possible. Wants 100% cotton with a filter insert -  we recommend this pattern ; they’d like “happy” material - masks are mostly for long-term patientshttps://www.youtube.com/watch?v=aHvghyn314U&t=3s. Contact Donna in the admin office at 775-463-6491 for delivery or mail to:  PO Box 940 Yerrington, NV 89447. 775-463-6491',
+      phone: '775-463-6491',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: 'Lebanon',
+      city: 'Manchester',
+      zipCode: '03101',
+      state: 'NH',
+      original: 'Lebanon, NH & Manchester, NH',
+      name: 'Dartmouth-Hitchcock',
+      specialInstructions: 'As many as possible. Yes, find it here  You can also get a materials kit if you call ahead to the Lebanon locationhttps://www.dartmouth-hitchcock.org/patient-education/sewing-masks.html. Masks can be dropped off at:   Dartmouth-Hitchcock Service Center Green Warehouse  50 LaBombard Road North Lebanon, NH 03766  Dartmouth-Hitchcock Manchester 100 Hitchcock Way Manchester, NH 03104. 603-650-4217, Call M-F 7 AM - 3:30 PM',
+      phone: '603-650-4217',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: 'Jaffrey',
+      city: 'Antrim',
+      zipCode: '03440',
+      state: 'NH',
+      original: 'Antrim, NHJaffrey, NHPeterborough, NH Rindge, NH',
+      name: 'Monadnock Community Hospital',
+      specialInstructions: 'Yes, find it here http://monadnockcommunityhospital.com/wp-content/uploads/2020/03/MCH_Mask_PR_Instructions_Patterns_032320-4.pdf. Leave masks in the container at:  Grapevine Family & Community Resource Center  4 Aiken St, Antrim, NH 03440  First Service Title Company  47 Main St, Jaffrey, NH 03452  Peterborough Town Library 2 Concord St, Peterborough, NH 03458  Jaffrey Grade School 18 School St., Jaffrey, NH 03452-1319  Rindge Memorial School  58 School St., Rindge, NH 03461-9568  MCH would like each of the donors to "please leave [their] name, address and phone number so that we may acknowledge [their] generous contribution" when they donate masks. Sadie Halliday (603) 660-2321',
+      phone: '(603) 660-2321',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '97 West Pkwy',
+      city: 'Pompton Plains',
+      zipCode: '07444',
+      state: 'NJ',
+      original: '97 West Pkwy, Pompton Plains, NJ 07444',
+      name: 'Chilton Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here  https://www.atlantichealth.org/patients-visitors/donate-volunteer/donate-supplies-covid-19/make-facemask-help-covid-19.html. Can be dropped off 24/7 directly outside the main entrance in the blue donation bin',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '651 Willow Grove St',
+      city: 'Hackettstown',
+      zipCode: '07840',
+      state: 'NJ',
+      original: '651 Willow Grove St,Hackettstown, NJ 07840',
+      name: 'Hackettstown Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here  https://www.atlantichealth.org/patients-visitors/donate-volunteer/donate-supplies-covid-19/make-facemask-help-covid-19.html. Can be dropped off 24/7 directly outside the main entrance in the blue donation bin',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '100 Madison Ave',
+      city: 'Morristown',
+      zipCode: '07960',
+      state: 'NJ',
+      original: '100 Madison Ave,Morristown, NJ07960',
+      name: 'Morristown Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here  https://www.atlantichealth.org/patients-visitors/donate-volunteer/donate-supplies-covid-19/make-facemask-help-covid-19.html. Can be dropped off 24/7 directly outside the main entrance in the blue donation bin',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '175 High St',
+      city: 'Newton',
+      zipCode: '07860',
+      state: 'NJ',
+      original: '175 High St,Newton, NJ07860',
+      name: 'Newton Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here  https://www.atlantichealth.org/patients-visitors/donate-volunteer/donate-supplies-covid-19/make-facemask-help-covid-19.html. Can be dropped off 24/7 directly outside the main entrance in the blue donation bin',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '99 Beauvoir Ave',
+      city: 'Summit',
+      zipCode: '07901',
+      state: 'NJ',
+      original: '99 Beauvoir Ave,Summit, NJ07901',
+      name: 'Overlook Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here  https://www.atlantichealth.org/patients-visitors/donate-volunteer/donate-supplies-covid-19/make-facemask-help-covid-19.html. Can be dropped off 24/7 directly outside the main entrance in the blue donation bin',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Ridgewood',
+      zipCode: '07450',
+      state: 'NJ',
+      original: 'Ridgewood, NJ',
+      name: 'The Valley Hospital',
+      specialInstructions: 'Providing mask-making kits. Contact Sandy Carapezza at  acarape@valleyhospitalfoundation.org  to get a mask kit mailto:acarape@valleyhospitalfoundation.org. Contact Sandy Carapezza at  acarape@valleyhospitalfoundation.org mailto:acarape@valleyhospitalfoundation.org',
+      phone: null,
+      email: 'acarape@valleyhospitalfoundation.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Oneonta',
+      zipCode: '13820',
+      state: 'NY',
+      original: 'Oneonta, NY',
+      name: 'A.O. Fox Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here  They also have supplies available https://www.bassett.org/covid-19/protective-fabric-masks?fbclid=IwAR0uJW35RI6kytjElFVTCcmaIUnpGxgCQDlsGU1annKA7Y_3BBPZ9D67JVY. Drop off or mail to Bassett Healthcare Network warehouse   ATTN: Fabric Masks  26 Grove St., Cooperstown, NY 13326. 607-547-6691 or email Barbara.Tarka@bassett.org',
+      phone: '607-547-6691',
+      email: 'Barbara.Tarka@bassett.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Sidney',
+      zipCode: '13838',
+      state: 'NY',
+      original: 'Sidney, NY',
+      name: 'A.O. Fox Hospital - Tri-Town Campus',
+      specialInstructions: 'As many as possible. Yes, find it here  They also have supplies available https://www.bassett.org/covid-19/protective-fabric-masks?fbclid=IwAR0uJW35RI6kytjElFVTCcmaIUnpGxgCQDlsGU1annKA7Y_3BBPZ9D67JVY. Drop off or mail to Bassett Healthcare Network warehouse   ATTN: Fabric Masks  26 Grove St., Cooperstown, NY 13326. 607-547-6691 or email Barbara.Tarka@bassett.org',
+      phone: '607-547-6691',
+      email: 'Barbara.Tarka@bassett.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Cooperstown',
+      zipCode: '13326',
+      state: 'NY',
+      original: 'Cooperstown, NY',
+      name: 'Bassett Medical Center (The Mary Imogene Bassett Hospital)',
+      specialInstructions: 'As many as possible. Yes, find it here  They also have supplies available https://www.bassett.org/covid-19/protective-fabric-masks?fbclid=IwAR0uJW35RI6kytjElFVTCcmaIUnpGxgCQDlsGU1annKA7Y_3BBPZ9D67JVY. Drop off or mail to Bassett Healthcare Network warehouse   ATTN: Fabric Masks  26 Grove St., Cooperstown, NY 13326. 607-547-6691 or email Barbara.Tarka@bassett.org',
+      phone: '607-547-6691',
+      email: 'Barbara.Tarka@bassett.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Ithaca',
+      zipCode: '14850',
+      state: 'NY',
+      original: 'Ithaca, NY',
+      name: 'Cayuga Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://cayugahealthsystem.org/wp-content/uploads/2020/03/How-to-make-a-Face-Maskedited.pdf. Drop off M-F 8 AM - 5 PM, S-S 9 AM - 3 PM at: Cayuga Medical Center Foundation 767 Warren Rd,  Ithaca, NY 14850  OR 24/7 at: Trumansburg Fire Station 74 West Main St, Trumansburg, NY 14886   OR M-F 8 AM - 3 PM at:  Cornell Campus Bartels Hall 554 Campus Rd,  Ithaca, NY 14853. Contact through the form at the bottom of this page  https://cayugahealthsystem.org/how-to-help/#',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Cobleskill',
+      zipCode: '12043',
+      state: 'NY',
+      original: 'Cobleskill, NY',
+      name: 'Cobleskill Regional Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here  They also have supplies available https://www.bassett.org/covid-19/protective-fabric-masks?fbclid=IwAR0uJW35RI6kytjElFVTCcmaIUnpGxgCQDlsGU1annKA7Y_3BBPZ9D67JVY. Drop off or mail to Bassett Healthcare Network warehouse   ATTN: Fabric Masks  26 Grove St., Cooperstown, NY 13326. 607-547-6691 or email Barbara.Tarka@bassett.org',
+      phone: '607-547-6691',
+      email: 'Barbara.Tarka@bassett.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '79-01 Broadway',
+      city: 'Elmhurst',
+      zipCode: '11373',
+      state: 'NY',
+      original: '79-01 Broadway, Elmhurst, NY 11373',
+      name: 'NYC Health + Hospitals/Elmhurst',
+      specialInstructions: 'Everything and Anything. DROP OFF NEAR ER, 79-01 Broadway, Elmhurst, NY 11373. (718) 334-4000',
+      phone: '(718) 334-4000',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '100 E 77th Street',
+      city: 'New York',
+      zipCode: '10075',
+      state: 'NY',
+      original: '100 E 77th Street New York, NY 10075',
+      name: 'Lenox Hill Hospital',
+      specialInstructions: 'As many as possible masks, gowns. DROP OFF AT ER, 130 E 77th St,  New York, NY 10075. 516-396-6410',
+      phone: '516-396-6410',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Little Falls',
+      zipCode: '13365',
+      state: 'NY',
+      original: 'Little Falls, NY',
+      name: 'Little Falls Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here  They also have supplies available https://www.bassett.org/covid-19/protective-fabric-masks?fbclid=IwAR0uJW35RI6kytjElFVTCcmaIUnpGxgCQDlsGU1annKA7Y_3BBPZ9D67JVY. Drop off or mail to Bassett Healthcare Network warehouse   ATTN: Fabric Masks  26 Grove St., Cooperstown, NY 13326. 607-547-6691 or email Barbara.Tarka@bassett.org',
+      phone: '607-547-6691',
+      email: 'Barbara.Tarka@bassett.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '111 E 210th St',
+      city: 'Bronx',
+      zipCode: '10467',
+      state: 'NY',
+      original: '111 E 210th St, The Bronx, NY 10467',
+      name: 'Montefiore Medical Center',
+      specialInstructions: 'As many as possible masks, gowns. DROP OFF AT ER, go down ambulance road and call this number ask for Charge Nurse Eileen and someone will come out and get it.  mail to 111 E 210 St Bronx NY 10467 ATTN:ok I can’t ER Chris McLeod. 718-920-5731',
+      phone: '718-920-5731',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '1200 Driving Park Ave',
+      city: 'Newark',
+      zipCode: '14513',
+      state: 'NY',
+      original: '1200 Driving Park Ave, Newark, NY 14513',
+      name: 'Newark-Wayne Community Hospital',
+      specialInstructions: 'As many as possible masks, gowns. Drop off at the main entrance or mail to:  Newark-Wayne Community Hospital Attn: Donations  1200 Driving Park Ave,  Newark, NY 14513. 315-332-2022',
+      phone: '315-332-2022',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '525 E 68th St',
+      city: 'New York',
+      zipCode: '10065',
+      state: 'NY',
+      original: '525 E 68th St, New York, NY 10065',
+      name: 'NewYork-Presbyterian Weill Cornell Medical Center https://www.nyp.org/locations/newyork-presbyterian-weill-cornell-medical-center',
+      specialInstructions: 'As many as possible masks, gowns, anything. Drop off at hospital main entrance or m ail to:  NY Presbyterian  ATTN: Donations  525 E 68th St,  New York, NY 10065. 212-312-5000',
+      phone: '212-312-5000',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '621 Tenth Street',
+      city: 'Niagara Falls',
+      zipCode: '14302',
+      state: 'NY',
+      original: '621 Tenth Street Niagara Falls, NY 14302',
+      name: 'Niagara Falls Memorial Medical Center',
+      specialInstructions: 'As many as possible masks, gowns. Call 716-278-4000 to arrange drop off with nursing supervisor Sara Purdy or mail to:  Niagara Falls Memorial Medical Center Attn: Nursing Administration  621 Tenth Street Niagara Falls, NY  14302. 716-278-4000',
+      phone: '716-278-4000',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '160 North Midland Avenue',
+      city: 'Nyack',
+      zipCode: '10960',
+      state: 'NY',
+      original: '160 North Midland Avenue Nyack, NY 10960',
+      name: 'Nyack Hospital',
+      specialInstructions: 'As many as possible masks, gowns, no touch thermometers. Drop off with security or mail to:  Montefiore Nyack Hospital Attn: Patient Experience Department 160 North Midland Avenue Nyack, NY 10960. 845-348-2000',
+      phone: '845-348-2000',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '506 Lenox Ave',
+      city: 'New York',
+      zipCode: '10037',
+      state: 'NY',
+      original: '506 Lenox Ave, New York, NY 10037',
+      name: 'NYC Health + Hospitals - Harlem',
+      specialInstructions: 'As many as possible masks, gowns. Drop off at the main entrance or mail to:  NYC Health and Hospitals - Harlem ATTN: Donations  506 Lenox Ave,  New York, NY 10037. 212-939-1000',
+      phone: '212-939-1000',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '550 First Avenue',
+      city: 'New York',
+      zipCode: '10016',
+      state: 'NY',
+      original: '550 First Avenue, New York, NY 10016',
+      name: 'NYU Langone Hospitals',
+      specialInstructions: 'As many as possible masks, gowns. Email for donations  covid19supplyleads@nyulangone.org. 212-263-2190',
+      phone: '212-263-2190',
+      email: 'covid19supplyleads@nyulangone.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Delhi',
+      zipCode: '13753',
+      state: 'NY',
+      original: 'Delhi, NY',
+      name: 'O’Connor Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here  They also have supplies available https://www.bassett.org/covid-19/protective-fabric-masks?fbclid=IwAR0uJW35RI6kytjElFVTCcmaIUnpGxgCQDlsGU1annKA7Y_3BBPZ9D67JVY. Drop off or mail to Bassett Healthcare Network warehouse   ATTN: Fabric Masks  26 Grove St., Cooperstown, NY 13326. 607-547-6691 or email Barbara.Tarka@bassett.org',
+      phone: '607-547-6691',
+      email: 'Barbara.Tarka@bassett.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '355 Bard Ave',
+      city: 'Staten Island',
+      zipCode: '10310',
+      state: 'NY',
+      original: '355 Bard Ave,Staten Island, NY 10310',
+      name: 'Richmond University Medical Center',
+      specialInstructions: 'As many as possible. Thick woven cotton. Call 718-818-3404 (Mon-Fri 8-4pm) to set up a time to drop off outside at valet or set up time to pick up from home.. 718-818-1234',
+      phone: '718-818-1234',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Montour Falls',
+      zipCode: '14865',
+      state: 'NY',
+      original: 'Montour Falls, NY',
+      name: 'Schuyler Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://cayugahealthsystem.org/wp-content/uploads/2020/03/How-to-make-a-Face-Maskedited.pdf. Drop off 6 AM - 10 PM daily at the Customer Service Desk at  Tops Friendly Markets  504 ½ S Franklin St,  Watkins Glen, NY 14891   OR 8 AM - 5 PM daily to any cashier at  Dandy Mini Mart  102 Main St,  Odessa, NY 14869  OR 10 AM - 2 PM daily at the front desk at  Glen Motor Inn  3380 NY-14, Watkins Glen, NY 14891. Contact through the form at the bottom of this page  https://cayugahealthsystem.org/how-to-help/#',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '475 Seaview Ave',
+      city: 'Staten Island',
+      zipCode: '10305',
+      state: 'NY',
+      original: '475 Seaview Ave,Staten Island, NY10305',
+      name: 'Staten Island University Hospital',
+      specialInstructions: 'As many as possible. Bring directly to the emergency department. 718-226-9000',
+      phone: '718-226-9000',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Syracuse',
+      zipCode: '13202',
+      state: 'NY',
+      original: 'Syracuse, NY',
+      name: 'University Hospital SUNY Health Science Center',
+      specialInstructions: 'As many as possible. Yes https://www.upstate.edu/emergencymgt/pdf/mask_how_to_3_25rr.pdf   https://www.upstate.edu/emergencymgt/pdf/mask_how_to_3_25rr.pdf. Completed masks can be dropped off at the following locations:  Traffic circle at Upstate University Hospital, 750 East Adams Street  Upstate Community Hospital, 4900 Broad Road   Calico Gals sewing shop, 3906 New Court Avenue   Name and contact information must be included with donation.. 315-464-5540',
+      phone: '315-464-5540',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '150 Taylor Station Road Suite 250 Columbus',
+      city: 'Ohio',
+      zipCode: '43213',
+      state: null,
+      original: '150 Taylor Station Road Suite 250 Columbus, Ohio 43213',
+      name: 'Eastside Dermatology and Skincare Center',
+      specialInstructions: '15. None (want at least 3 to be solid-colored fabric). Contact Katherine Bodiford 614-863-3222 EXT 215 for delivery. Contact is Katherine Bodiford 614-863-3222 EXT 215',
+      phone: '614-863-3222',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '630 Eaton Ave',
+      city: 'Hamilton',
+      zipCode: '45013',
+      state: 'OH',
+      original: '630 Eaton Ave,Hamilton, OH45013',
+      name: 'Fort Hamilton Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.madeeveryday.com/fabric-face-mask-free-pattern/. fgSupplies available at drop off location starting 3/27/2020  Drop off at the Main Entrance in the designated bins between 8 AM and 6 PM. Contact Teresa Fudge teresa.fudge@ketteringhealth.com',
+      phone: null,
+      email: 'teresa.fudge@ketteringhealth.com'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '405 W Grand Ave',
+      city: 'Dayton',
+      zipCode: '45405',
+      state: 'OH',
+      original: '405 W Grand Ave,Dayton, OH45405',
+      name: 'Grandview Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.madeeveryday.com/fabric-face-mask-free-pattern/. Supplies available at drop off location starting 3/27/2020  Drop off at the Main Entrance in the designated bins between 8 AM and 6 PM. Contact Teresa Fudge teresa.fudge@ketteringhealth.com',
+      phone: null,
+      email: 'teresa.fudge@ketteringhealth.com'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1141 N Monroe Dr',
+      city: 'Xenia',
+      zipCode: '45385',
+      state: 'OH',
+      original: '1141 N Monroe Dr,Xenia, OH 45385',
+      name: 'Greene Memorial Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.madeeveryday.com/fabric-face-mask-free-pattern/. Supplies available at drop off location starting 3/27/2020  Drop off at the Main Entrance in the designated bins between 8 AM and 6 PM. Contact Teresa Fudge teresa.fudge@ketteringhealth.com',
+      phone: null,
+      email: 'teresa.fudge@ketteringhealth.com'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '3535 Southern Blvd',
+      city: 'Kettering',
+      zipCode: '45429',
+      state: 'OH',
+      original: '3535 Southern Blvd,Kettering, OH45429',
+      name: 'Kettering Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.madeeveryday.com/fabric-face-mask-free-pattern/. Supplies available at drop off location starting 3/27/2020  Drop off at the Main Entrance in the designated bins between 8 AM and 6 PM. Contact Teresa Fudge teresa.fudge@ketteringhealth.com',
+      phone: null,
+      email: 'teresa.fudge@ketteringhealth.com'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '981 Wooster Rd',
+      city: 'Millersburg',
+      zipCode: '44654',
+      state: 'OH',
+      original: '981 Wooster Rd,Millersburg, OH 44654',
+      name: 'Pomerene Hospital',
+      specialInstructions: 'As many as possible. Deliver to screening station outside the hospital, 11 AM to 7 PM. 330-674-1015',
+      phone: '330-674-1015',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '2142 North Cove Blvd',
+      city: 'Toledo',
+      zipCode: '43606',
+      state: 'OH',
+      original: '2142 North Cove Blvd,Toledo, OH43606',
+      name: 'ProMedica Toledo Hospital',
+      specialInstructions: 'Yes, will be provided after registration. The hospital will provide materials and all further instructions.   You need to register here. https://form.jotform.com/200786816627161. 866-865-4677',
+      phone: '866-865-4677',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '3535 Pentagon Blvd',
+      city: 'Beavercreek',
+      zipCode: '45431',
+      state: 'OH',
+      original: '3535 Pentagon Blvd,Beavercreek, OH45431',
+      name: 'Soin Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.madeeveryday.com/fabric-face-mask-free-pattern/. Supplies available at drop off location starting 3/27/2020  Drop off at the Main Entrance in the designated bins between 8 AM and 6 PM. Contact Teresa Fudge teresa.fudge@ketteringhealth.com',
+      phone: null,
+      email: 'teresa.fudge@ketteringhealth.com'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1997 Miamisburg-Centerville Rd',
+      city: 'Centerville',
+      zipCode: '45459',
+      state: 'OH',
+      original: '1997 Miamisburg-Centerville Rd,Centerville, OH45459',
+      name: 'Southview Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.madeeveryday.com/fabric-face-mask-free-pattern/. Supplies available at drop off location starting 3/27/2020  Drop off at the Main Entrance in the designated bins between 8 AM and 6 PM. Contact Teresa Fudge teresa.fudge@ketteringhealth.com',
+      phone: null,
+      email: 'teresa.fudge@ketteringhealth.com'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '4000 Miamisburg-Centerville Rd',
+      city: 'Miamisburg',
+      zipCode: '45342',
+      state: 'OH',
+      original: '4000 Miamisburg-Centerville Rd,Miamisburg, OH45342',
+      name: 'Sycamore Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.madeeveryday.com/fabric-face-mask-free-pattern/. Supplies available at drop off location starting 3/27/2020  Drop off at the Main Entrance in the designated bins between 8 AM and 6 PM. Contact Teresa Fudge teresa.fudge@ketteringhealth.com',
+      phone: null,
+      email: 'teresa.fudge@ketteringhealth.com'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '600 W. Main St',
+      city: 'Troy',
+      zipCode: '45373',
+      state: 'OH',
+      original: '600 W. Main St,Troy, OH 45373',
+      name: 'Troy Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.madeeveryday.com/fabric-face-mask-free-pattern/. Supplies available at drop off location starting 3/27/2020  Drop off at the Main Entrance in the designated bins between 8 AM and 6 PM. Contact Teresa Fudge teresa.fudge@ketteringhealth.com',
+      phone: null,
+      email: 'teresa.fudge@ketteringhealth.com'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Cleveland',
+      zipCode: '44101',
+      state: 'OH',
+      original: 'Cleveland, OH',
+      name: 'University Hospitals Cleveland Medical Center',
+      specialInstructions: 'As many as possible. Yes find it here https://www.uhhospitals.org/healthcare-update/masks-and-donations?utm_medium=social&utm_source=facebook&utm_campaign=coronavirus&utm_content=donations&utm_keyword=masks&fbclid=IwAR3dvnhN-0yIVxcSkYfBcqCQn8PFTCJnAq7dMLFhzL8S3gEHUlIUGX_4NEI. Can pick up mask making supplies and drop off completed masks at: UH Management Services Center (back entrance)  3605 Warrensville Center Rd,  Shaker Heights, OH 44122. Contact  UHClevelandVolunteer@UHHospitals.org',
+      phone: null,
+      email: 'UHClevelandVolunteer@UHHospitals.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '630 E River St',
+      city: 'Elyria',
+      zipCode: '44035',
+      state: 'OH',
+      original: '630 E River St,Elyria, OH 44035',
+      name: 'University Hospitals - Elyria',
+      specialInstructions: 'As many as possible. Yes find it here https://www.uhhospitals.org/healthcare-update/masks-and-donations?utm_medium=social&utm_source=facebook&utm_campaign=coronavirus&utm_content=donations&utm_keyword=masks&fbclid=IwAR3dvnhN-0yIVxcSkYfBcqCQn8PFTCJnAq7dMLFhzL8S3gEHUlIUGX_4NEI. Can pick up mask making supplies and drop off completed masks at the main entrance valet starting Mon 3/30/2020 starting at 12 PM.  Thereafter 8 AM to 4 PM.. Contact  UHClevelandVolunteer@UHHospitals.org',
+      phone: null,
+      email: 'UHClevelandVolunteer@UHHospitals.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: 'Ravenna Rd',
+      city: 'Chardon',
+      zipCode: '13207',
+      state: 'OH',
+      original: '13207 Ravenna Rd,Chardon, OH44024',
+      name: 'University Hospitals - Geauga',
+      specialInstructions: 'As many as possible. Yes find it here https://www.uhhospitals.org/healthcare-update/masks-and-donations?utm_medium=social&utm_source=facebook&utm_campaign=coronavirus&utm_content=donations&utm_keyword=masks&fbclid=IwAR3dvnhN-0yIVxcSkYfBcqCQn8PFTCJnAq7dMLFhzL8S3gEHUlIUGX_4NEI. Can pick up mask making supplies and drop off completed masks at the main entrance valet starting Mon 3/30/2020 starting at 12 PM.  Thereafter 8 AM to 4 PM.. Contact  UHClevelandVolunteer@UHHospitals.org',
+      phone: null,
+      email: 'UHClevelandVolunteer@UHHospitals.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '7007 Powers Blvd',
+      city: 'Parma',
+      zipCode: '44129',
+      state: 'OH',
+      original: '7007 Powers Blvd,Parma, OH44129',
+      name: 'University Hospitals - Parma',
+      specialInstructions: 'As many as possible. Yes find it here https://www.uhhospitals.org/healthcare-update/masks-and-donations?utm_medium=social&utm_source=facebook&utm_campaign=coronavirus&utm_content=donations&utm_keyword=masks&fbclid=IwAR3dvnhN-0yIVxcSkYfBcqCQn8PFTCJnAq7dMLFhzL8S3gEHUlIUGX_4NEI. Can pick up mask making supplies and drop off completed masks at the main entrance valet starting Mon 3/30/2020 starting at 12 PM.  Thereafter 8 AM to 4 PM.. Contact  UHClevelandVolunteer@UHHospitals.org',
+      phone: null,
+      email: 'UHClevelandVolunteer@UHHospitals.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '6847 N Chestnut St',
+      city: 'Ravenna',
+      zipCode: '44266',
+      state: 'OH',
+      original: '6847 N Chestnut St,Ravenna, OH44266',
+      name: 'University Hospitals - Portage',
+      specialInstructions: 'As many as possible. Yes find it here https://www.uhhospitals.org/healthcare-update/masks-and-donations?utm_medium=social&utm_source=facebook&utm_campaign=coronavirus&utm_content=donations&utm_keyword=masks&fbclid=IwAR3dvnhN-0yIVxcSkYfBcqCQn8PFTCJnAq7dMLFhzL8S3gEHUlIUGX_4NEI. Can pick up mask making supplies and drop off completed masks at the main entrance valet starting Mon 3/30/2020 starting at 12 PM.  Thereafter 8 AM to 4 PM.. Contact  UHClevelandVolunteer@UHHospitals.org',
+      phone: null,
+      email: 'UHClevelandVolunteer@UHHospitals.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1761 Beall Ave',
+      city: 'Wooster',
+      zipCode: '44691',
+      state: 'OH',
+      original: '1761 Beall Ave,Wooster, OH 44691',
+      name: 'Wooster Community Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://wp03-media.cdn.ihealthspot.com/wp-content/uploads/sites/210/2020/03/23144031/Sew-a-Fabric-Face-Mask.pdf. Deliver to hospital main entrance. 330-263-8100',
+      phone: '330-263-8100',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '3401 W Gore Blvd',
+      city: 'Lawton',
+      zipCode: '73505',
+      state: 'OK',
+      original: '3401 W Gore Blvd, Lawton, OK73505',
+      name: 'Comanche County Memorial Hospital',
+      specialInstructions: 'As many as possible. Deliver to: ATTN: Heather Love Ms, RN, CPHRM Director of Safety and Risk Management 3401 W Gore Blvd, Lawton, OK 74505. 580-355-8620 EXT 5485',
+      phone: '580-355-8620',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '3300 NW Expressway',
+      city: 'Oklahoma City',
+      zipCode: '73112',
+      state: 'OK',
+      original: '3300 NW Expressway,Oklahoma City, OK 73112',
+      name: 'INTEGRIS Baptist Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://buttoncounter.com/2018/01/14/facemask-a-picture-tutorial/. Drop off Saturday 3/21 and Monday 3/23 between 3 PM and 7 PM in the East Parking Lot at 3300 NW Expressway',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '5602 SW Lee Blvd',
+      city: 'Lawton',
+      zipCode: '73505',
+      state: 'OK',
+      original: '5602 SW Lee Blvd, Lawton, OK 73505',
+      name: 'Southwestern Medical Center',
+      specialInstructions: 'As many as possible. Deliver to: ATTN: SARAH KELLY RN QUALITY ANALYST, QUALITY/RISK DEPARTMENT 5602 SW Lee Blvd,  Lawton, OK 73505. 580-531-4804',
+      phone: '580-531-4804',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1201 S. Adams St',
+      city: 'Stillwater',
+      zipCode: '74074',
+      state: 'OK',
+      original: '1201 S. Adams St,Stillwater, OK74074',
+      name: 'Stillwater Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://buttoncounter.com/2018/01/14/facemask-a-picture-tutorial/. Drop off M-F between 8 AM and 5 PM at the Stillwater Medical Plaza building (1201 S. Adams).',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1460 G St',
+      city: 'Springfield',
+      zipCode: '97477',
+      state: 'OR',
+      original: '1460 G St,Springfield, OR97477',
+      name: 'McKenzie-Willamette Medical Center',
+      specialInstructions: 'As many as possible. Drop off in yellow donation barrel at the main entrance. 541-726-4400',
+      phone: '541-726-4400',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Allentown',
+      zipCode: '18101',
+      state: 'PA',
+      original: 'Allentown, PA',
+      name: 'Lehigh Valley Health Network',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.whitearborquilting.com/adjustable-side-face-mask/. More locations will be posted at this link   You can drop off masks at White Arbor Quilting  5515 Sequoia Trail,  Allentown, PA 18104',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1650 E Race St',
+      city: 'Bethlehem',
+      zipCode: '18109',
+      state: 'PA',
+      original: '1650 E Race St, Bethlehem, PA18109',
+      name: 'St. Luke’s Hospital Bethlehem',
+      specialInstructions: 'As many as possible. None - requesting denim, toweling fabric, or cotton. Call 1-866-STLUKES x 4 to arrange drop off or mail to:  1650 E Race St,  Allentown, PA 18109. 1-866-STLUKES x4',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Brookings',
+      zipCode: '57006',
+      state: 'SD',
+      original: 'Brookings, SD',
+      name: 'Brookings Hospital',
+      specialInstructions: 'As many as possible. Yes, find  PDF here  and  video here https://www.brookingshealth.org/sites/default/files/2020-03/BHS_Mask.pdf, https://www.youtube.com/watch?v=nRdpEqwuF_0&feature=youtu.be&fbclid=IwAR00dvc54PtfMTZJFj_sI0XhaM0MtOVaKO_BviXpUro2DulqYq3ePdvbifY',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '719 Thompson Ln',
+      city: 'Nashville',
+      zipCode: '37204',
+      state: 'TN',
+      original: '719 Thompson Ln,Nashville, TN37204',
+      name: 'Vanderbilt University Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.vumc.org/coronavirus/how-donate-hand-sewn-face-masks. Drop-off between 9 AM and 3 PM in a plastic bin under the portico at Entrance A, Vanderbilt One Hundred Oaks (back entrance on the end of the mall nearest the movie theater). Contact via email at volunteer.services@vumc.org',
+      phone: null,
+      email: 'volunteer.services@vumc.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Austin',
+      zipCode: '78701',
+      state: 'TX',
+      original: 'Austin, TX',
+      name: 'Brookdale Spicewood Springs',
+      specialInstructions: 'As many as possible. Mail to:  Connie Badeaux- Kirst  3811 Powderhorn Dr Round Rock, TX 78681. Contact is Connie Badeaux- Kirst 512-418-8822',
+      phone: '512-418-8822',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1600 Providence Dr',
+      city: 'Waco',
+      zipCode: '76707',
+      state: 'TX',
+      original: '1600 Providence Dr, Waco, TX76707',
+      name: 'Family Health Center',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.youtube.com/watch?v=TL9D6ZFtZHM&feature=youtu.be&fbclid=IwAR3Meq3vLEIACCQqZEKWQBxSw8RAZU2PGGPWSuqNq5ooV390rg9dcz_Lzpk. Mail to:  Attn: Glenna Walker 1600 Providence Dr.  Waco, Texas 76707. 254-313-4200',
+      phone: '254-313-4200',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1600 Antelope Dr',
+      city: 'Layton',
+      zipCode: '84041',
+      state: 'UT',
+      original: '1600 Antelope Dr,Layton, UT 84041',
+      name: 'Davis Hospital and Medical Center',
+      specialInstructions: 'As many as possible. Drop off at the hospital main entrance between 6 AM and 6 PM Monday - Friday. 801-807-1000',
+      phone: '801-807-1000',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Culpeper',
+      zipCode: '22701',
+      state: 'VA',
+      original: 'Culpeper, VA',
+      name: 'Novant Health UVA Health System Culpeper Medical Center',
+      specialInstructions: 'As many as possible. Do not bring donations to the hospital without prior approval - contact  NHUVA.SR@novanthealth.org  prior to making donations, include detailed info about masks & your phone number.  mailto:NHUVA.SR@novanthealth.org. Contact  NHUVA.SR@novanthealth.org  prior to making donations, include detailed info about masks & your phone numbermailto:NHUVA.SR@novanthealth.org',
+      phone: null,
+      email: 'NHUVA.SR@novanthealth.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Haymarket',
+      zipCode: '20169',
+      state: 'VA',
+      original: 'Haymarket, VA',
+      name: 'Novant Health UVA Health System Haymarket Medical Center',
+      specialInstructions: 'As many as possible. Do not bring donations to the hospital without prior approval - contact  NHUVA.SR@novanthealth.org  prior to making donations, include detailed info about masks & your phone number.  mailto:NHUVA.SR@novanthealth.org. Contact  NHUVA.SR@novanthealth.org  prior to making donations, include detailed info about masks & your phone numbermailto:NHUVA.SR@novanthealth.org',
+      phone: null,
+      email: 'NHUVA.SR@novanthealth.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Manassas',
+      zipCode: '20109',
+      state: 'VA',
+      original: 'Manassas, VA',
+      name: 'Novant Health UVA Health System Prince Wiliam Medical Center',
+      specialInstructions: 'As many as possible. Do not bring donations to the hospital without prior approval - contact  NHUVA.SR@novanthealth.org  prior to making donations, include detailed info about masks & your phone number.  mailto:NHUVA.SR@novanthealth.org. Contact  NHUVA.SR@novanthealth.org  prior to making donations, include detailed info about masks & your phone numbermailto:NHUVA.SR@novanthealth.org',
+      phone: null,
+      email: 'NHUVA.SR@novanthealth.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Richmond',
+      zipCode: '23173',
+      state: 'VA',
+      original: 'Richmond, VA',
+      name: 'Virginia Commonwealth University Medical Center https://www.vcuhealth.org/news-center/news-story?&news=1603',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.vcuhealth.org/media/file/Mask%20Production%20Pattern%20Revised_NEW%20FINAL_3_27.pdf. Drop off M-F 5 AM - 11 PM to the Valet at:   VCU Medical Center Gateway Building Valet entrance 1200 E Marshall St, Richmond, VA. 804-628-0400',
+      phone: '804-628-0400',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1211 24th St',
+      city: 'Anacortes',
+      zipCode: '98221',
+      state: 'WA',
+      original: '1211 24th St, Anacortes, WA 98221',
+      name: 'Island Hospital',
+      specialInstructions: 'As many as possible. Drop off at the front door.. Contact charge nurse at (360) 299-1311',
+      phone: '(360) 299-1311',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]
+Sending  [
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Spokane',
+      zipCode: '99201',
+      state: 'WA',
+      original: 'Spokane, WA',
+      name: 'Spokane County Emergency Management',
+      specialInstructions: 'As many as possible. Drop off between 9 AM and 3 PM at   The Spokane County Fair and Expo Center (NE corner)  404 N. Havana St,  Spokane Valley, WA. 509-477-2204',
+      phone: '509-477-2204',
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '',
+      city: 'Charleston',
+      zipCode: '25301',
+      state: 'WV',
+      original: 'Charleston, WV',
+      name: 'Charleston Area Medical Center',
+      specialInstructions: 'As many as possible. Yes, find it here , should be 100% cotton https://www.craftpassion.com/face-mask-sewing-pattern/. Drop off to bins Monday - Saturday 9 AM - 1 PM at  any of the drop-off centers listed in this article .https://www.wvnews.com/news/wvnews/charleston-area-medical-center-manchin-calling-on-those-who-sew/article_c1d0a3df-88aa-542b-b907-e9ec47123ddc.html. Contact Volunteer Services at 304-388-7426 or kelly.anderson@camc.org',
+      phone: '304-388-7426',
+      email: 'kelly.anderson@camc.org'
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  },
+  {
+    organization: {
+      addressLine1: '1629 E Division St',
+      city: 'River Falls',
+      zipCode: '54022',
+      state: 'WI',
+      original: '1629 E Division St,River Falls, WI 54022',
+      name: 'River Falls Area Hospital',
+      specialInstructions: 'As many as possible. Yes, find it here https://www.sewgoodgoods.org/face-mask-covid-19. Deliver to 1629 E Division St, River Falls, WI 54022',
+      phone: null,
+      email: null
+    },
+    submitter: {
+      firstName: null,
+      lastName: null,
+      email: 'we.need.handmade.masks@gmail.com',
+      phone: null
+    }
+  }
+]

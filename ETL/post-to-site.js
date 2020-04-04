@@ -10,14 +10,15 @@ var data = JSON.parse(fs.readFileSync("result.json"));
 createNewRequests(data);
 
 async function createNewRequests(data) {
-    //data = [data[0]];
-    for(var i=0; i < data.length; i++) {
-        console.log(data[i]);
+    while (data.length > 0) {
+        var batch = _.take(data, 5);
+        console.log("Sending ", batch);
+        data = _.drop(data, 5);
         await requestPromise({
             method: 'POST',
-            uri: 'https://askformasks.azurewebsites.net/api/request',
-            body: data[i],
+            uri: 'https://askformasks.azurewebsites.net/api/request/bulk',
+            body: { requests: batch },
             json: true 
         });
-    };
+    }
 }

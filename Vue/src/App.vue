@@ -101,4 +101,8 @@ var firebaseScripts = [
 tr.no-hover:hover {
   background-color: #ffffff !important;
 }
+
+caption {
+  margin-bottom: 1rem;
+}
 </style>
