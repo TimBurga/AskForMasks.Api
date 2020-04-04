@@ -79,11 +79,11 @@
 
           <br />
 
-          <v-btn color="primary" class="mt-4" @click="search">Search requests in your area</v-btn>
+          <v-btn v-if="totalRequests" color="primary" class="mt-4" @click="search">Search {{totalRequests}} providers for one near you</v-btn>
 
           <v-row justify="center" v-if="totalRequests">
             <v-col lg="8">
-              <request-table :requests="recentRequests" :loading="loading" :compact="true" :title="totalRequests + ' organizations requesting masks:'"></request-table>
+              <request-table :requests="recentRequests" :loading="loading" :compact="true" title="New requests"></request-table>
             </v-col>
           </v-row>
 

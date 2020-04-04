@@ -30,8 +30,8 @@
                 <td class="hidden-sm-and-down">
                   <div>{{item.contactName}}</div>
                   <div>{{item.email}} {{item.phone}}</div>
-                  <div class="mt-1  font-weight-light">{{item.description}}</div>
-                  <div class="mb-1 font-weight-light" v-html="item.specialInstructions"></div>
+                  <div style="" class="mt-1  font-weight-light">{{item.description}}</div>
+                  <div style="word-break: break-all" class="mb-1 font-weight-light" v-html="item.specialInstructions"></div>
                 </td>
                 <td class="hidden-md-and-up">
                   <div class="subtitle-1 font-weight-bold" align="center">
@@ -43,7 +43,7 @@
                   <div align="center">{{item.city}} {{item.state}}, {{item.zip}}</div>
                   <div  align="center">{{item.contactName}}</div>
                   <div  align="center">{{item.email}} {{item.phone}}</div>
-                  <div style="word-break: break-all" class="mt-1  font-weight-light">{{item.description}}</div>
+                  <div style="" class="mt-1  font-weight-light">{{item.description}}</div>
                   <div style="word-break: break-all" class="mb-1 font-weight-light" v-html="item.specialInstructions"></div>
                 </td>
               </tr>
